@@ -1,14 +1,10 @@
 [
     {
-        "name": "Time (Beta)",
-        "url": "https://boogoxseal.xyz/mods/timebeta",
-        "difficulty": "downloadable",
+        "name": "Beatnik",
+        "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
+        "difficulty": "unfinished",
         "names": [
-            "time",
-            "time beta",
-            "timebeta",
-            "time (beta)",
-            "time(beta)"
+            "beatnik"
         ]
     },
     {
@@ -20,11 +16,15 @@
         ]
     },
     {
-        "name": "Beatnik",
-        "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
-        "difficulty": "unfinished",
+        "name": "Time (Beta)",
+        "url": "https://boogoxseal.xyz/mods/timebeta",
+        "difficulty": "downloadable",
         "names": [
-            "beatnik"
+            "time",
+            "time beta",
+            "timebeta",
+            "time (beta)",
+            "time(beta)"
         ]
     }
 ]
