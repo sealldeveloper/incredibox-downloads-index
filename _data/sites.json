@@ -123,18 +123,6 @@
         ]
     },
     {
-        "name": "Time (Beta)",
-        "url": "https://boogoxseal.xyz/mods/timebeta",
-        "difficulty": "downloadable",
-        "names": [
-            "time",
-            "time beta",
-            "timebeta",
-            "time (beta)",
-            "time(beta)"
-        ]
-    },
-    {
         "name": "The Armed Forces",
         "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
         "difficulty": "downloadable",
@@ -165,6 +153,18 @@
             "the masks",
             "masks",
             "mask"
+        ]
+    },
+    {
+        "name": "Time (Beta)",
+        "url": "https://boogoxseal.xyz/mods/timebeta",
+        "difficulty": "downloadable",
+        "names": [
+            "time",
+            "time beta",
+            "timebeta",
+            "time (beta)",
+            "time(beta)"
         ]
     },
     {
