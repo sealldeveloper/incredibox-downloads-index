@@ -200,22 +200,22 @@
         ]
     },
     {
-        "name": "Xrun",
-        "url": "https://www.incredirem.com/mods#comp-la5nibpl",
-        "difficulty": "downloadable",
-        "notes": "Made by Rem. No mac download.",
-        "names": [
-            "xrun",
-            "rem"
-        ]
-    },
-    {
         "name": "Void",
         "url": "https://www.incredirem.com/mods#comp-lkk2qaq7",
         "difficulty": "downloadable",
         "notes": "Made by Rem. No mac download.",
         "names": [
             "void",
+            "rem"
+        ]
+    },
+    {
+        "name": "Xrun",
+        "url": "https://www.incredirem.com/mods#comp-la5nibpl",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No mac download.",
+        "names": [
+            "xrun",
             "rem"
         ]
     }
