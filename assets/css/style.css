@@ -252,41 +252,41 @@ main {
     text-decoration: none;
 }
 
-.site-block.easy .site-header {
+.site-block.downloadable .site-header {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
-.site-block.easy .site-header:hover {
+.site-block.downloadable .site-header:hover {
     background-color: #5D895D;
 }
 
-.site-block.medium .site-header {
+.site-block.partially .site-header {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
-.site-block.medium .site-header:hover {
+.site-block.partially .site-header:hover {
     background-color: #C5A65C;
 }
 
-.site-block.hard .site-header {
+.site-block.unfinished .site-header {
     background-color: #D04343;
     border: 1px solid #AC4949;
 }
-.site-block.hard .site-header:hover {
+.site-block.unfinished .site-header:hover {
     background-color: #AC4949;
 }
-.site-block.limited .site-header {
+.site-block.lost .site-header {
     background-color: #B521CC;
     border: 1px solid #9923AC;
 }
-.site-block.limited .site-header:hover {
+.site-block.lost .site-header:hover {
     background-color: #9923AC;
 }
-.site-block.impossible .site-header {
+.site-block.unavailable .site-header {
     background-color: #2B2B2B;
     border: 1px solid black;
 }
-.site-block.impossible .site-header:hover {
+.site-block.unavailable .site-header:hover {
     background-color: black;
 }
 
@@ -333,11 +333,11 @@ main {
     color: #293840;
 }
 
-.site-block.easy .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
-.site-block.medium .tooltip-toggle.contains-info:hover        { color: #E8C674; }
-.site-block.hard .tooltip-toggle.contains-info:hover          { color: #D04343; }
-.site-block.limited .tooltip-toggle.contains-info:hover       { color: #B521CC; }
-.site-block.impossible .tooltip-toggle.contains-info:hover    { color: #2B2B2B; }
+.site-block.downloadable .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
+.site-block.partially .tooltip-toggle.contains-info:hover        { color: #E8C674; }
+.site-block.unfinished .tooltip-toggle.contains-info:hover          { color: #D04343; }
+.site-block.lost .tooltip-toggle.contains-info:hover       { color: #B521CC; }
+.site-block.unavailable .tooltip-toggle.contains-info:hover    { color: #2B2B2B; }
 
 .hide-info {
     display: none;
@@ -415,23 +415,23 @@ main {
     padding: 6px 12px;
 }
 
-.info-container .easy .difficulty {
+.info-container .downloadable .difficulty {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
-.info-container .medium .difficulty {
+.info-container .partially .difficulty {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
-.info-container .hard .difficulty {
+.info-container .unfinished .difficulty {
     background-color: #D04343;
     border: 1px solid #AC4949;
 }
-.info-container .limited .difficulty {
+.info-container .lost .difficulty {
     background-color: #B521CC;
     border: 1px solid #9923AC;
 }
-.info-container .impossible .difficulty {
+.info-container .unavailable .difficulty {
     background-color: #2B2B2B;
     border: 1px solid black;
 }
@@ -488,23 +488,23 @@ main {
     height: 10px;
     width: 10px;
 }
-.banner-block li .dot.easy {
+.banner-block li .dot.downloadable {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
-.banner-block li .dot.medium {
+.banner-block li .dot.partially {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
-.banner-block li .dot.hard {
+.banner-block li .dot.unfinished {
     background-color: #D04343;
     border: 1px solid #AC4949;
 }
-.banner-block li .dot.limited {
+.banner-block li .dot.lost {
     background-color: #B521CC;
     border: 1px solid #9923AC;
 }
-.banner-block li .dot.impossible {
+.banner-block li .dot.unavailable {
     background-color: #2B2B2B;
     border: 1px solid black;
 }

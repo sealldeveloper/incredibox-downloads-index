@@ -1,4 +1,4 @@
-<div class="search">
+    <div class="search">
     <div class="search-container">
         <input type="text" id="search" placeholder="{{ site.data.trans[page.lang].search }}">
         <label for="search">search</a>
@@ -15,7 +15,7 @@
 
 <main>
     <section class="sites" id="sites">
-        <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/jdm-contrib/jdm'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
+        <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/sealldeveloper/incredibox-downloads-index'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
         {% for entry in site.data.sites %}
             <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
@@ -26,15 +26,15 @@
                 </a>
 
                 <p class="site-difficulty">
-                    {% if entry.difficulty == 'easy' %}
+                    {% if entry.difficulty == 'downloadable' %}
                         {{ site.data.trans[page.lang].difficulty_easy }}
-                    {% elsif entry.difficulty == 'medium' %}
+                    {% elsif entry.difficulty == 'partially' %}
                         {{ site.data.trans[page.lang].difficulty_medium }}
-                    {% elsif entry.difficulty == 'hard' %}
+                    {% elsif entry.difficulty == 'unfinished' %}
                         {{ site.data.trans[page.lang].difficulty_hard }}
-                    {% elsif entry.difficulty == 'limited' %}
+                    {% elsif entry.difficulty == 'lost' %}
                         {{ site.data.trans[page.lang].difficulty_limited }}
-                    {% elsif entry.difficulty == 'impossible' %}
+                    {% elsif entry.difficulty == 'unavailable' %}
                         {{ site.data.trans[page.lang].difficulty_impossible }}
                     {% endif %}
                 </p>
