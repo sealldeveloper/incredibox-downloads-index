@@ -3,7 +3,6 @@
         "name": "Time (Beta)",
         "url": "https://boogoxseal.xyz/mods/timebeta",
         "difficulty": "downloadable",
-        "notes": "Downloadable in all versions",
         "names": [
             "time",
             "time beta",
@@ -16,7 +15,6 @@
         "name": "Piege",
         "url": "https://boogoxseal.xyz/mods/piege",
         "difficulty": "downloadable",
-        "notes": "Downloadable in all versions",
         "names": [
             "piege"
         ]
@@ -25,7 +23,6 @@
         "name": "Beatnik",
         "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
         "difficulty": "unfinished",
-        "notes": "Still a work in progress",
         "names": [
             "beatnik"
         ]
