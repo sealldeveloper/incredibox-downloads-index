@@ -1,10 +1,97 @@
 [
     {
+        "name": "Airline",
+        "url": "https://www.youtube.com/watch?v=swfkYC1639s",
+        "difficulty": "downloadable",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
+        "names": [
+            "airline",
+            "arbox",
+            "rb"
+        ]
+    },
+    {
+        "name": "Anniversary",
+        "url": "https://www.incredirem.com/mods#comp-lct9t08i",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No webapp, windows or mac download.",
+        "names": [
+            "anniversary",
+            "rem"
+        ]
+    },
+    {
+        "name": "Augury",
+        "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
+        "difficulty": "downloadable",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
+        "names": [
+            "augury",
+            "arbox",
+            "rb"
+        ]
+    },
+    {
         "name": "Beatnik",
         "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
         "difficulty": "unfinished",
+        "notes": "Made by BOOGO x SEAL",
         "names": [
-            "beatnik"
+            "beatnik",
+            "boogo x seal",
+            "boogo",
+            "seal"
+        ]
+    },
+    {
+        "name": "Evadare",
+        "url": "https://www.incredirem.com/mods#comp-lct6c3xr",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No mac download.",
+        "names": [
+            "evadare",
+            "rem"
+        ]
+    },
+    {
+        "name": "Evadare (Demo)",
+        "url": "https://www.incredirem.com/mods#comp-lct9193p",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No webapp, windows or mac download.",
+        "names": [
+            "evadare (demo)",
+            "evadare",
+            "demo",
+            "rem"
+        ]
+    },
+    {
+        "name": "Galaxy",
+        "url": "https://www.incredirem.com/mods#comp-lct9pucy",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No webapp, windows or mac download.",
+        "names": [
+            "galaxy",
+            "rem"
+        ]
+    },
+    {
+        "name": "Moltentop",
+        "url": "https://www.youtube.com/watch?v=Q27sUHhI3jo",
+        "difficulty": "unfinished",
+        "notes": "Made by Meddlebox Concepts",
+        "names": [
+            "moltentop",
+            "meddlebox concepts"
+        ]
+    },
+    {
+        "name": "Objects (Demo)",
+        "url": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
+        "difficulty": "partially",
+        "notes": "No webapp, windows or mac download.",
+        "names": [
+            "objects"
         ]
     },
     {
@@ -13,6 +100,26 @@
         "difficulty": "downloadable",
         "names": [
             "piege"
+        ]
+    },
+    {
+        "name": "Remixed",
+        "url": "https://www.incredirem.com/mods#comp-lct9t08i",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No webapp, windows or mac download.",
+        "names": [
+            "remixed",
+            "rem"
+        ]
+    },
+    {
+        "name": "Sewertown",
+        "url": "https://www.mediafire.com/file/aw7ax6ps96g7j5b/Incredibox_-_Sewertown_signed.apk/file",
+        "difficulty": "partially",
+        "notes": "Made by Meddlebox Concepts. Missing animations, no webapp, windows or mac download.",
+        "names": [
+            "sewertown",
+            "meddlebox concepts"
         ]
     },
     {
@@ -25,6 +132,91 @@
             "timebeta",
             "time (beta)",
             "time(beta)"
+        ]
+    },
+    {
+        "name": "The Armed Forces",
+        "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
+        "difficulty": "downloadable",
+        "notes": "Made by RB - Series (pedo). No webapp or mac download.",
+        "names": [
+            "the armed forces",
+            "arbox",
+            "rb"
+        ]
+    },
+    {
+        "name": "The Bells",
+        "url": "https://www.incredirem.com/mods#comp-lct7ufgz",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No webapp or mac download.",
+        "names": [
+            "the bells",
+            "bells",
+            "rem"
+        ]
+    },
+    {
+        "name": "The Masks",
+        "url": "https://drive.google.com/drive/folders/1A0ZWoC6l7wGHu59KK3-mD-nbibmytkyj",
+        "difficulty": "downloadable",
+        "notes": "No webapp or mac download",
+        "names": [
+            "the masks",
+            "masks",
+            "mask"
+        ]
+    },
+    {
+        "name": "Travis",
+        "url": "https://www.youtube.com/watch?v=AG5Gt0-7x-Q",
+        "difficulty": "downloadable",
+        "notes": "Made by Artemiy Kopych. No webapp or mac download.",
+        "names": [
+            "travis",
+            "artemiy",
+            "kopych"
+        ]
+    },
+    {
+        "name": "Two Faces",
+        "url": "https://www.youtube.com/watch?v=swfkYC1639s",
+        "difficulty": "downloadable",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
+        "names": [
+            "two faces",
+            "arbox",
+            "rb"
+        ]
+    },
+    {
+        "name": "Unmasked",
+        "url": "https://www.incredirem.com/mods#comp-lct9t08i",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No webapp, windows or mac download.",
+        "names": [
+            "unmasked",
+            "rem"
+        ]
+    },
+    {
+        "name": "Xrun",
+        "url": "https://www.incredirem.com/mods#comp-la5nibpl",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No mac download.",
+        "names": [
+            "xrun",
+            "rem"
+        ]
+    },
+    {
+        "name": "Void",
+        "url": "https://www.incredirem.com/mods#comp-lkk2qaq7",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No mac download.",
+        "names": [
+            "void",
+            "rem"
         ]
     }
 ]
