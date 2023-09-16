@@ -22,7 +22,7 @@ nav {
     align-items: stretch;
     display: flex;
     justify-content: center;
-    background-color: #D04343;
+    background-color: #be2eb5;
     color: black;
     direction: ltr;
     font-weight: normal;
@@ -69,7 +69,7 @@ nav a:hover, .language-switch:hover, .current {
 
 header {
     background-color: #293840;
-    border-bottom: 5px solid #D04343;
+    border-bottom: 5px solid #be2eb5;
     color: #E8E8E8;
     margin-top: 47px;
     padding: 40px 0;
@@ -89,7 +89,7 @@ header h1 {
 }
 
 header h1 span {
-    color: #D04343;
+    color: #be2eb5;
 }
 
 .tagline {
@@ -99,7 +99,7 @@ header h1 span {
 }
 
 .button {
-    background: #D04343;
+    background: #be2eb5;
     border-radius: 5px;
     color: white;
     display: inline-block;
@@ -120,7 +120,7 @@ header h1 span {
 }
 
 .search {
-    background-color: #D04343;
+    background-color: #be2eb5;
     display: none;
     padding: 10px 0;
 }
@@ -195,11 +195,11 @@ button:hover {
 }
 
 .reset {
-    color: #D04343;
+    color: #be2eb5;
 }
 
 main {
-    border-bottom: 4px solid #D04343;
+    border-bottom: 4px solid #be2eb5;
 }
 
 .sites {
@@ -282,11 +282,11 @@ main {
 .site-block.lost .site-header:hover {
     background-color: #9923AC;
 }
-.site-block.unavailable .site-header {
+.site-block.impossible .site-header {
     background-color: #2B2B2B;
     border: 1px solid black;
 }
-.site-block.unavailable .site-header:hover {
+.site-block.impossible .site-header:hover {
     background-color: black;
 }
 
@@ -337,7 +337,7 @@ main {
 .site-block.partially .tooltip-toggle.contains-info:hover        { color: #E8C674; }
 .site-block.unfinished .tooltip-toggle.contains-info:hover          { color: #D04343; }
 .site-block.lost .tooltip-toggle.contains-info:hover       { color: #B521CC; }
-.site-block.unavailable .tooltip-toggle.contains-info:hover    { color: #2B2B2B; }
+.site-block.impossible .tooltip-toggle.contains-info:hover    { color: #2B2B2B; }
 
 .hide-info {
     display: none;
@@ -382,7 +382,7 @@ main {
 }
 
 .info-container a:hover {
-    color: #D04343;
+    color: #be2eb5;
 }
 
 .info-container h2 {
@@ -431,7 +431,7 @@ main {
     background-color: #B521CC;
     border: 1px solid #9923AC;
 }
-.info-container .unavailable .difficulty {
+.info-container .impossible .difficulty {
     background-color: #2B2B2B;
     border: 1px solid black;
 }
@@ -459,7 +459,7 @@ main {
 }
 
 .banner-block a:hover {
-    color: #D04343;
+    color: #be2eb5;
 }
 
 .banner-block ul {
@@ -504,7 +504,7 @@ main {
     background-color: #B521CC;
     border: 1px solid #9923AC;
 }
-.banner-block li .dot.unavailable {
+.banner-block li .dot.impossible {
     background-color: #2B2B2B;
     border: 1px solid black;
 }
