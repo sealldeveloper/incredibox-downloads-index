@@ -21,6 +21,17 @@
         ]
     },
     {
+        "name": "The Armed Forces",
+        "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
+        "difficulty": "downloadable",
+        "notes": "Made by RB - Series (pedo). No webapp or mac download.",
+        "names": [
+            "the armed forces",
+            "arbox",
+            "rb"
+        ]
+    },
+    {
         "name": "Augury",
         "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
         "difficulty": "downloadable",
@@ -41,6 +52,17 @@
             "boogo x seal",
             "boogo",
             "seal"
+        ]
+    },
+    {
+        "name": "The Bells",
+        "url": "https://www.incredirem.com/mods#comp-lct7ufgz",
+        "difficulty": "downloadable",
+        "notes": "Made by Rem. No webapp or mac download.",
+        "names": [
+            "the bells",
+            "bells",
+            "rem"
         ]
     },
     {
@@ -73,6 +95,17 @@
         "names": [
             "galaxy",
             "rem"
+        ]
+    },
+    {
+        "name": "The Masks",
+        "url": "https://drive.google.com/drive/folders/1A0ZWoC6l7wGHu59KK3-mD-nbibmytkyj",
+        "difficulty": "downloadable",
+        "notes": "No webapp or mac download",
+        "names": [
+            "the masks",
+            "masks",
+            "mask"
         ]
     },
     {
@@ -120,39 +153,6 @@
         "names": [
             "sewertown",
             "meddlebox concepts"
-        ]
-    },
-    {
-        "name": "The Armed Forces",
-        "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
-        "difficulty": "downloadable",
-        "notes": "Made by RB - Series (pedo). No webapp or mac download.",
-        "names": [
-            "the armed forces",
-            "arbox",
-            "rb"
-        ]
-    },
-    {
-        "name": "The Bells",
-        "url": "https://www.incredirem.com/mods#comp-lct7ufgz",
-        "difficulty": "downloadable",
-        "notes": "Made by Rem. No webapp or mac download.",
-        "names": [
-            "the bells",
-            "bells",
-            "rem"
-        ]
-    },
-    {
-        "name": "The Masks",
-        "url": "https://drive.google.com/drive/folders/1A0ZWoC6l7wGHu59KK3-mD-nbibmytkyj",
-        "difficulty": "downloadable",
-        "notes": "No webapp or mac download",
-        "names": [
-            "the masks",
-            "masks",
-            "mask"
         ]
     },
     {
