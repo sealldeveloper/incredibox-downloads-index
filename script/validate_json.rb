@@ -20,8 +20,8 @@ module ExitCodes
     UNEXPECTED_NOTES = 12          # Unexpected notes key for translation
 end
 
-SupportedDifficulties = ["easy", "medium", "hard", "limited", "impossible"]
-SupportedEntryKeys = ["difficulty", "domains", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
+SupportedDifficulties = ["downloadable", "partially", "unfinished", "lost", "unavailable"]
+SupportedEntryKeys = ["difficulty", "names", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = [
     "about",
     "contribute",
@@ -145,9 +145,8 @@ def validate_website_entry(key, i)
         exit ExitCodes::MISSING_NAME
     end
     validate_accepted_keys(key)
-    error_on_missing_field(key, 'url', ExitCodes::MISSING_URL)
     error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
-    error_on_missing_field(key, 'domains', ExitCodes::MISSING_DOMAINS)
+    error_on_missing_field(key, 'names', ExitCodes::MISSING_DOMAINS)
     validate_difficulty(key)
     validate_localized_urls(key)
     validate_localized_notes(key)
