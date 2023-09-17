@@ -366,7 +366,7 @@
     {
         "name": "Veda",
         "url": "https://www.youtube.com/watch?v=vxk3qsIy6qE",
-        "availability": "partailly",
+        "availability": "partially",
         "notes": "Still in beta. Based off of 'Veda' by 'Incredible Polo'. No webapp or mac download.",
         "names": [
             "veda"
