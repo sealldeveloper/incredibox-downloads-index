@@ -111,12 +111,12 @@ header h1 span {
 }
 
 .button:hover {
-    background: #AC4949;
+    background: #6e1b69;
     cursor: pointer;
 }
 
 .button.jgmd:hover {
-    background: #004c99;
+    background: #6e1b69;
 }
 
 .search {
@@ -191,7 +191,7 @@ button {
 }
 
 button:hover {
-    background-color: #FFECEC;
+    background-color: #ffecf9;
 }
 
 .reset {

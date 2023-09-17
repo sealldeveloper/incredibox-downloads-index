@@ -138,6 +138,15 @@
         ]
     },
     {
+        "name": "Geek Dance",
+        "url": "https://www.youtube.com/watch?v=CZSVa3iCsd0",
+        "difficulty": "unfinished",
+        "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.",
+        "names": [
+            "geek dance"
+        ]
+    },
+    {
         "name": "The Invasion",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
         "difficulty": "downloadable",
@@ -156,6 +165,15 @@
         "names": [
             "karuk",
             "averill"
+        ]
+    },
+    {
+        "name": "The Last Day",
+        "url": "https://www.youtube.com/watch?v=sIic3c5tsOw",
+        "difficulty": "downloadable",
+        "notes": "Based off of 'The Last Day' by 'Incredible Polo'. No webapp or mac download.",
+        "names": [
+            "the last day"
         ]
     },
     {
@@ -272,6 +290,15 @@
         ]
     },
     {
+        "name": "The Tomfoolery",
+        "url": "https://www.youtube.com/watch?v=52i2NzOiDho",
+        "difficulty": "downloadable",
+        "notes": "Made by Artemiy Kopych and PersonFromBrazil. No webapp or mac download.",
+        "names": [
+            "the tomfoolery"
+        ]
+    },
+    {
         "name": "Travis",
         "url": "https://www.youtube.com/watch?v=AG5Gt0-7x-Q",
         "difficulty": "downloadable",
@@ -301,6 +328,15 @@
         "names": [
             "unmasked",
             "rem"
+        ]
+    },
+    {
+        "name": "Veda (Beta)",
+        "url": "https://www.youtube.com/watch?v=vxk3qsIy6qE",
+        "difficulty": "downloadable",
+        "notes": "Based off of 'Veda' by 'Incredible Polo'. No webapp or mac download.",
+        "names": [
+            "veda"
         ]
     },
     {
