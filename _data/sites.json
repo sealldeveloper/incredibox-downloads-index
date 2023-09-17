@@ -285,6 +285,15 @@
         ]
     },
     {
+        "name": "Soulgem",
+        "url": "https://www.mediafire.com/file/ts6siwsh3e96v8j/gen_signed.apk/file",
+        "availability": "downloadable",
+        "notes": "No webapp, windows or mac download.",
+        "names": [
+            "soulgem"
+        ]
+    },
+    {
         "name": "Stargold",
         "url": "https://www.mediafire.com/file/tna9kikmgg7we8k/StarBox.apk/file",
         "availability": "partially",
