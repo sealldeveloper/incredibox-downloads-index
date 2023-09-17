@@ -1,7 +1,7 @@
 [
     {
         "name": "Airline",
-        "url": "https://www.youtube.com/watch?v=swfkYC1639s",
+        "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode2.apk",
         "difficulty": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
@@ -22,7 +22,7 @@
     },
     {
         "name": "The Armed Forces",
-        "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
+        "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode4.apk",
         "difficulty": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp or mac download.",
         "names": [
@@ -33,7 +33,7 @@
     },
     {
         "name": "Augury",
-        "url": "https://www.youtube.com/watch?v=KobbdXYeueo",
+        "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode3.apk",
         "difficulty": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
@@ -63,6 +63,26 @@
             "the bells",
             "bells",
             "rem"
+        ]
+    },
+    {
+        "name": "Blinding Lights",
+        "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
+        "difficulty": "downloadable",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Missing polos.",
+        "names": [
+            "blinding lights",
+            "rb"
+        ]
+    },
+    {
+        "name": "Bonfire",
+        "url": "https://www.youtube.com/watch?v=uUjD0gAb9d8",
+        "difficulty": "downloadable",
+        "notes": "Made by ColdSeamer. No webapp or mac download.",
+        "names": [
+            "bonfire",
+            "coldseamer"
         ]
     },
     {
@@ -98,6 +118,27 @@
         ]
     },
     {
+        "name": "The Invasion",
+        "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
+        "difficulty": "downloadable",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
+        "names": [
+            "invasion",
+            "the invasion",
+            "rb"
+        ]
+    },
+    {
+        "name": "Karuk",
+        "url": "https://www.youtube.com/watch?v=galKsFUlCWA",
+        "difficulty": "unfinished",
+        "notes": "Made by Team Averill",
+        "names": [
+            "karuk",
+            "averill"
+        ]
+    },
+    {
         "name": "The Masks",
         "url": "https://drive.google.com/drive/folders/1A0ZWoC6l7wGHu59KK3-mD-nbibmytkyj",
         "difficulty": "downloadable",
@@ -106,6 +147,16 @@
             "the masks",
             "masks",
             "mask"
+        ]
+    },
+    {
+        "name": "Mechanic",
+        "url": "https://www.youtube.com/watch?v=bU0Ur_okeG8",
+        "difficulty": "downloadable",
+        "notes": "Made by ColdSeamer. No webapp or mac download.",
+        "names": [
+            "mechanic",
+            "coldseamer"
         ]
     },
     {
@@ -156,6 +207,16 @@
         ]
     },
     {
+        "name": "Thriller (Beta)",
+        "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
+        "difficulty": "partially",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Highly unfinished, missing animations, sounds and whole polos.",
+        "names": [
+            "thriller",
+            "rb"
+        ]
+    },
+    {
         "name": "Time (Beta)",
         "url": "https://boogoxseal.xyz/mods/timebeta",
         "difficulty": "downloadable",
@@ -180,7 +241,7 @@
     },
     {
         "name": "Two Faces",
-        "url": "https://www.youtube.com/watch?v=swfkYC1639s",
+        "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxTwoFaces-Android.apk",
         "difficulty": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
