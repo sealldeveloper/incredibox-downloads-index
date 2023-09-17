@@ -69,7 +69,7 @@
         "name": "Blinding Lights",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
         "difficulty": "downloadable",
-        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Missing polos.",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Missing polos. Based off of 'Blinding Lights' by 'The Weknd'.",
         "names": [
             "blinding lights",
             "rb"
@@ -82,6 +82,16 @@
         "notes": "Made by ColdSeamer. No webapp or mac download.",
         "names": [
             "bonfire",
+            "coldseamer"
+        ]
+    },
+    {
+        "name": "Deep Blue",
+        "url": "https://www.youtube.com/watch?v=PuG7d7-tWRU",
+        "difficulty": "unfinished",
+        "notes": "Made by ColdSeamer. Based off of 'Deep Blue' by 'Incredible Polo'.",
+        "names": [
+            "deep blue",
             "coldseamer"
         ]
     },
@@ -105,6 +115,16 @@
             "evadare",
             "demo",
             "rem"
+        ]
+    },
+    {
+        "name": "Express",
+        "url": "https://www.youtube.com/watch?v=VQBr5cwzP-E",
+        "difficulty": "unfinished",
+        "notes": "Made by Splatjack.",
+        "names": [
+            "express",
+            "splatjack"
         ]
     },
     {
@@ -142,7 +162,7 @@
         "name": "The Masks",
         "url": "https://drive.google.com/drive/folders/1A0ZWoC6l7wGHu59KK3-mD-nbibmytkyj",
         "difficulty": "downloadable",
-        "notes": "No webapp or mac download",
+        "notes": "No webapp or mac download.",
         "names": [
             "the masks",
             "masks",
@@ -170,6 +190,16 @@
         ]
     },
     {
+        "name": "Noteboxers",
+        "url": "https://www.mediafire.com/file/kgc3vy9433lswbw/Noteboxers.apk/file",
+        "difficulty": "partially",
+        "notes": "A Minecraft remake of Incredibox. Missing v9. No webapp, windows or mac download.",
+        "names": [
+            "noteboxers",
+            "minecraft"
+        ]
+    },
+    {
         "name": "Objects (Demo)",
         "url": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
         "difficulty": "downloadable",
@@ -182,8 +212,19 @@
         "name": "Piege",
         "url": "https://boogoxseal.xyz/mods/piege",
         "difficulty": "downloadable",
+        "notes": "Based off of 'Piege' by 'Saro'.",
         "names": [
             "piege"
+        ]
+    },
+    {
+        "name": "Pushing Life",
+        "url": "https://www.youtube.com/watch?v=7-Io79SBxIU",
+        "difficulty": "unfinished",
+        "notes": "Made by Gumi. Bases off of 'Pushing Life' by 'Incredible Polo'.",
+        "names": [
+            "pushing life",
+            "gumi"
         ]
     },
     {
@@ -210,7 +251,7 @@
         "name": "Thriller (Beta)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
         "difficulty": "downloadable",
-        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Highly unfinished, missing animations, sounds and whole polos.",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Highly unfinished, missing animations, sounds and whole polos. Based off of 'Thriller' by 'Michael Jackson'.",
         "names": [
             "thriller",
             "thriller (beta)",
@@ -234,7 +275,7 @@
         "name": "Travis",
         "url": "https://www.youtube.com/watch?v=AG5Gt0-7x-Q",
         "difficulty": "downloadable",
-        "notes": "Made by Artemiy Kopych. No webapp or mac download.",
+        "notes": "Made by Artemiy Kopych. No webapp or mac download. Based off of 'Travis' by 'Incredible Polo'.",
         "names": [
             "travis",
             "artemiy",
@@ -245,7 +286,7 @@
         "name": "Two Faces",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxTwoFaces-Android.apk",
         "difficulty": "downloadable",
-        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
+        "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Based off of 'Two Faces' by 'Incredible Polo'.",
         "names": [
             "two faces",
             "arbox",
