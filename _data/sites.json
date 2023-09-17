@@ -172,7 +172,7 @@
     {
         "name": "Objects (Demo)",
         "url": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
-        "difficulty": "partially",
+        "difficulty": "downloadable",
         "notes": "No webapp, windows or mac download.",
         "names": [
             "objects"
@@ -209,10 +209,12 @@
     {
         "name": "Thriller (Beta)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
-        "difficulty": "partially",
+        "difficulty": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Highly unfinished, missing animations, sounds and whole polos.",
         "names": [
             "thriller",
+            "thriller (beta)",
+            "beta",
             "rb"
         ]
     },
