@@ -96,6 +96,15 @@
         ]
     },
     {
+        "name": "Cursedbox",
+        "url": "https://www.mediafire.com/file/draujs14ure60ot/cursedbox+0.5.0+(com.sofarsogood.cursed).apk/file",
+        "availability": "downloadable",
+        "notes": "No webapp, windows or mac download.",
+        "names": [
+            "cursedbox"
+        ]
+    },
+    {
         "name": "Deep Blue",
         "url": "https://www.youtube.com/watch?v=PuG7d7-tWRU",
         "availability": "unfinished",

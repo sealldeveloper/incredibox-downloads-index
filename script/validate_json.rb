@@ -56,11 +56,8 @@ SupportedLanguageKeys = [
     "showinfo",
     "tagline",
     "title",
-    "twitter",
     "whatisthis",
     "whatisthis1",
-    "whatisthis2",
-    "whatisthis3",
     "whatisthis4"
 ]
 
