@@ -2,7 +2,7 @@
     {
         "name": "Airline",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode2.apk",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
             "airline",
@@ -13,7 +13,7 @@
     {
         "name": "Anniversary",
         "url": "https://www.incredirem.com/mods#comp-lct9t08i",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
             "anniversary",
@@ -23,7 +23,7 @@
     {
         "name": "The Armed Forces",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode4.apk",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp or mac download.",
         "names": [
             "the armed forces",
@@ -34,7 +34,7 @@
     {
         "name": "Augury",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode3.apk",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
             "augury",
@@ -45,7 +45,7 @@
     {
         "name": "Beatnik",
         "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by BOOGO x SEAL.",
         "names": [
             "beatnik",
@@ -57,7 +57,7 @@
     {
         "name": "The Bells",
         "url": "https://www.incredirem.com/mods#comp-lct7ufgz",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No webapp or mac download.",
         "names": [
             "the bells",
@@ -68,7 +68,7 @@
     {
         "name": "Blinding Lights",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Missing polos. Based off of 'Blinding Lights' by 'The Weknd'.",
         "names": [
             "blinding lights",
@@ -78,7 +78,7 @@
     {
         "name": "Bonfire",
         "url": "https://www.youtube.com/watch?v=uUjD0gAb9d8",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by ColdSeamer. No webapp or mac download.",
         "names": [
             "bonfire",
@@ -88,7 +88,7 @@
     {
         "name": "Deep Blue",
         "url": "https://www.youtube.com/watch?v=PuG7d7-tWRU",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by ColdSeamer. Based off of 'Deep Blue' by 'Incredible Polo'.",
         "names": [
             "deep blue",
@@ -98,7 +98,7 @@
     {
         "name": "Evadare",
         "url": "https://www.incredirem.com/mods#comp-lct6c3xr",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No mac download.",
         "names": [
             "evadare",
@@ -108,7 +108,7 @@
     {
         "name": "Evadare (Demo)",
         "url": "https://www.incredirem.com/mods#comp-lct9193p",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
             "evadare (demo)",
@@ -120,7 +120,7 @@
     {
         "name": "Express",
         "url": "https://www.youtube.com/watch?v=VQBr5cwzP-E",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by Splatjack.",
         "names": [
             "express",
@@ -130,7 +130,7 @@
     {
         "name": "Galaxy",
         "url": "https://www.incredirem.com/mods#comp-lct9pucy",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
             "galaxy",
@@ -140,7 +140,7 @@
     {
         "name": "Geek Dance",
         "url": "https://www.youtube.com/watch?v=CZSVa3iCsd0",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.",
         "names": [
             "geek dance"
@@ -149,7 +149,7 @@
     {
         "name": "Groovbox",
         "url": "https://www.youtube.com/watch?v=2388l-uqBb8",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by Deadeye. Based off of SFX from 'GroovePad'.",
         "names": [
             "groovbox"
@@ -158,7 +158,7 @@
     {
         "name": "The Invasion",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
             "invasion",
@@ -169,7 +169,7 @@
     {
         "name": "Karuk",
         "url": "https://www.youtube.com/watch?v=galKsFUlCWA",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by Team Averill.",
         "names": [
             "karuk",
@@ -179,7 +179,7 @@
     {
         "name": "The Last Day",
         "url": "https://www.youtube.com/watch?v=sIic3c5tsOw",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Based off of 'The Last Day' by 'Incredible Polo'. No webapp or mac download.",
         "names": [
             "the last day"
@@ -188,7 +188,7 @@
     {
         "name": "The Masks",
         "url": "https://drive.google.com/drive/folders/1A0ZWoC6l7wGHu59KK3-mD-nbibmytkyj",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "No webapp or mac download.",
         "names": [
             "the masks",
@@ -199,7 +199,7 @@
     {
         "name": "Mechanic",
         "url": "https://www.youtube.com/watch?v=bU0Ur_okeG8",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by ColdSeamer. No webapp or mac download.",
         "names": [
             "mechanic",
@@ -209,7 +209,7 @@
     {
         "name": "Moltentop",
         "url": "https://www.youtube.com/watch?v=Q27sUHhI3jo",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by Meddlebox Concepts.",
         "names": [
             "moltentop",
@@ -219,7 +219,7 @@
     {
         "name": "Noteboxers",
         "url": "https://www.mediafire.com/file/kgc3vy9433lswbw/Noteboxers.apk/file",
-        "difficulty": "partially",
+        "availability": "partially",
         "notes": "A Minecraft remake of Incredibox. Missing v9. No webapp, windows or mac download.",
         "names": [
             "noteboxers",
@@ -229,7 +229,7 @@
     {
         "name": "Objects",
         "url": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
-        "difficulty": "partially",
+        "availability": "partially",
         "notes": "Still in demo. No webapp, windows or mac download.",
         "names": [
             "objects"
@@ -238,7 +238,7 @@
     {
         "name": "Piege",
         "url": "https://boogoxseal.xyz/mods/piege",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Flow Studios. Based off of 'Piege' by 'Saro'.",
         "names": [
             "piege",
@@ -248,7 +248,7 @@
     {
         "name": "Pushing Life",
         "url": "https://www.youtube.com/watch?v=7-Io79SBxIU",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by Gumi. Bases off of 'Pushing Life' by 'Incredible Polo'.",
         "names": [
             "pushing life",
@@ -258,7 +258,7 @@
     {
         "name": "Remixed",
         "url": "https://www.incredirem.com/mods#comp-lct9t08i",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
             "remixed",
@@ -268,7 +268,7 @@
     {
         "name": "Set Fire",
         "url": "https://www.mediafire.com/file/9zt37rx9h0jbc8l/Incredimad.apk/file",
-        "difficulty": "partially",
+        "availability": "partially",
         "notes": "Still in demo release, missing animations. No webapp, windows or mac download.",
         "names": [
             "set fire"
@@ -277,7 +277,7 @@
     {
         "name": "Sewertown",
         "url": "https://www.mediafire.com/file/aw7ax6ps96g7j5b/Incredibox_-_Sewertown_signed.apk/file",
-        "difficulty": "partially",
+        "availability": "partially",
         "notes": "Made by Meddlebox Concepts. Missing animations, no webapp, windows or mac download.",
         "names": [
             "sewertown",
@@ -287,7 +287,7 @@
     {
         "name": "Stargold",
         "url": "https://www.mediafire.com/file/tna9kikmgg7we8k/StarBox.apk/file",
-        "difficulty": "partailly",
+        "availability": "partailly",
         "notes": "Still in demo release, missing animations. No webapp, windows or mac download.",
         "names": [
             "stargold"
@@ -296,7 +296,7 @@
     {
         "name": "Thriller",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
-        "difficulty": "partially",
+        "availability": "partially",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Highly unfinished, missing animations, sounds and whole polos. Based off of 'Thriller' by 'Michael Jackson'.",
         "names": [
             "thriller",
@@ -306,7 +306,7 @@
     {
         "name": "Time",
         "url": "https://boogoxseal.xyz/mods/timebeta",
-        "difficulty": "partially",
+        "availability": "partially",
         "notes": "Still in beta.",
         "names": [
             "time"
@@ -315,7 +315,7 @@
     {
         "name": "The Tomfoolery",
         "url": "https://www.youtube.com/watch?v=52i2NzOiDho",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Artemiy Kopych and PersonFromBrazil. No webapp or mac download.",
         "names": [
             "the tomfoolery"
@@ -324,7 +324,7 @@
     {
         "name": "Travis",
         "url": "https://www.youtube.com/watch?v=AG5Gt0-7x-Q",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Artemiy Kopych. No webapp or mac download. Based off of 'Travis' by 'Incredible Polo'.",
         "names": [
             "travis",
@@ -335,7 +335,7 @@
     {
         "name": "Two Faces (Flow Studios)",
         "url": "https://www.youtube.com/shorts/s6Ccs-froEA",
-        "difficulty": "unfinished",
+        "availability": "unfinished",
         "notes": "Made by Flow Studio. Based off of 'Two Faces' by 'Incredible Polo'.",
         "names": [
             "two faces",
@@ -345,7 +345,7 @@
     {
         "name": "Two Faces (RB)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxTwoFaces-Android.apk",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Based off of 'Two Faces' by 'Incredible Polo'.",
         "names": [
             "two faces",
@@ -356,7 +356,7 @@
     {
         "name": "Unmasked",
         "url": "https://www.incredirem.com/mods#comp-lct9t08i",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
             "unmasked",
@@ -366,7 +366,7 @@
     {
         "name": "Veda",
         "url": "https://www.youtube.com/watch?v=vxk3qsIy6qE",
-        "difficulty": "partailly",
+        "availability": "partailly",
         "notes": "Still in beta. Based off of 'Veda' by 'Incredible Polo'. No webapp or mac download.",
         "names": [
             "veda"
@@ -375,7 +375,7 @@
     {
         "name": "Void",
         "url": "https://www.incredirem.com/mods#comp-lkk2qaq7",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No mac download.",
         "names": [
             "void",
@@ -385,7 +385,7 @@
     {
         "name": "Xrun",
         "url": "https://www.incredirem.com/mods#comp-la5nibpl",
-        "difficulty": "downloadable",
+        "availability": "downloadable",
         "notes": "Made by Rem. No mac download.",
         "names": [
             "xrun",

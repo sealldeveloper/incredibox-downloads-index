@@ -15,21 +15,21 @@ This is a reference guide for translating, so that one can see where each key fi
 ## Body
 
 - `popular`: Button to filter by popular websites
-- `difficulty`: Button to filter by a chosen difficulty
+- `availability`: Button to filter by a chosen availability
 - `reset`: Button to reset filtering
 - `noresults`: Description used when the filtering conditions lead to no results
 - `noresultshelp`: Description of hyperlink that takes to the JDM repository
-- `difficulty_easy`: Word for "easy" difficulty
-- `difficulty_medium`: Word for "medium" difficulty
-- `difficulty_hard`: Word for "hard" difficulty
-- `difficulty_limited`: Word for "limited availability" difficulty
-- `difficulty_impossible`: Word for "impossible" difficulty
+- `availability_downloadable`: Word for "downloadable" availability
+- `availability_partially`: Word for "partially" availability
+- `availability_unfinished`: Word for "unfinished" availability
+- `availability_lost`: Word for "lost availability" availability
+- `availability_unavailable`: Word for "unavailable" availability
 - `search`: Placeholder text for the general search field
 - `sendmail`: Text for hyperlink that opens up the new mail to be composed
 - `showinfo`: Text for button that shows notes of an entry
 - `hideinfo`: Text for button that hides notes of an entry
 - `noinfo`: Text shown when entry has no notes
-- `defaultnote_easy`: Text shown when entry has no notes and deletion is accomplished by going to the linked URL
+- `defaultnote_downloadable`: Text shown when entry has no notes and deletion is accomplished by going to the linked URL
 - `defaultnote_email`: Text shown when entry has no notes and deletion is accomplished by emailing a company representative
 
 ## Footer
@@ -41,11 +41,11 @@ This is a reference guide for translating, so that one can see where each key fi
 - `pullrequest`: Text for the hyperlink that takes to the JDM GitHub webpage
 - `guide`: Title for the section explaining how difficulties work
 - `guideexplanations`: Sentence introducing the guide
-- `guideeasy`: Short sentence explaining what "easy" means
-- `guidemedium`: Short sentence explaining what "medium" means
-- `guidehard`: Short sentence explaining what "hard" means
-- `guidelimited`: Short sentence explaining what "limited availability" means
-- `guideimpossible`: Short sentence explaining what "impossible" means
+- `guidedownloadable`: Short sentence explaining what "downloadable" means
+- `guidepartially`: Short sentence explaining what "partially" means
+- `guideunfinished`: Short sentence explaining what "unfinished" means
+- `guidelost`: Short sentence explaining what "lost availability" means
+- `guideunavailable`: Short sentence explaining what "unavailable" means
 - `extension_browser`: Title for the section explaining about the Chrome/Firefox browser extensions
 - `extensionguide`: Sentence introducing the extension section
 - `extensionp1`: Explains what the extensions do

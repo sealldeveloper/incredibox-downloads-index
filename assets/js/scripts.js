@@ -55,13 +55,13 @@ $(function(){
         });
     });
 
-    // Difficulty filtering
+    // availability filtering
     $(".diff-sort a").click(function(e){
         e.preventDefault();
         var term = $(this).text().toLowerCase();
 
         hideFilteredSites(function() {
-            var text = $(this).find(".site-difficulty").text().trim().toLowerCase();
+            var text = $(this).find(".site-availability").text().trim().toLowerCase();
             return !~text.indexOf(term);
         });
     });

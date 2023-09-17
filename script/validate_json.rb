@@ -9,11 +9,11 @@ module ExitCodes
     PARSE_FAILED = 1               # JSON parse errors
     UNSORTED = 2                   # data keys are not in alphanumeric order
     MISSING_URL = 3                # Entry missing the required 'url' field
-    MISSING_DIFFICULTY = 4         # Entry missing the required 'difficulty' field
+    MISSING_availability = 4         # Entry missing the required 'availability' field
     MISSING_DOMAINS = 5            # Entry missing the required 'domains' field
     MISSING_LANGUAGE_KEYS = 6      # Translation missing required keys
     MISSING_NAME = 7               # Entry missing the required 'name' field
-    UNEXPECTED_DIFFICULTY = 8      # Unexpected value for 'difficulty' field
+    UNEXPECTED_availability = 8      # Unexpected value for 'availability' field
     UNEXPECTED_LANGUAGE = 9        # Unexpected language code for 'url_code' field
     UNEXPECTED_LANGUAGE_KEY = 10   # Unexpected language key for translation
     UNSUPPORTED_FIELD = 11         # Unsupported field for site entry
@@ -21,18 +21,18 @@ module ExitCodes
 end
 
 SupportedDifficulties = ["downloadable", "partially", "unfinished", "lost", "unavailable"]
-SupportedEntryKeys = ["difficulty", "names", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
+SupportedEntryKeys = ["availability", "names", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = [
     "about",
     "contribute",
-    "defaultnote_easy",
+    "defaultnote_downloadable",
     "defaultnote_email",
-    "difficulty",
-    "difficulty_easy",
-    "difficulty_hard",
-    "difficulty_impossible",
-    "difficulty_limited",
-    "difficulty_medium",
+    "availability",
+    "availability_downloadable",
+    "availability_unfinished",
+    "availability_unavailable",
+    "availability_lost",
+    "availability_partially",
     "extension_browser",
     "extensionguide",
     "extensionp1",
@@ -42,12 +42,12 @@ SupportedLanguageKeys = [
     "extensionp5",
     "footercredits",
     "guide",
-    "guideeasy",
+    "guidedownloadable",
     "guideexplanations",
-    "guidehard",
-    "guideimpossible",
-    "guidelimited",
-    "guidemedium",
+    "guideunfinished",
+    "guideunavailable",
+    "guidelost",
+    "guidepartially",
     "hideinfo",
     "jgmd",
     "name",
@@ -104,14 +104,14 @@ def error_on_missing_field(key, field, exit_code)
     end
 end
 
-def validate_difficulty(key)
-    difficulty = key['difficulty']
-    unless SupportedDifficulties.include?(difficulty)
-        STDERR.puts "Entry '#{key['name']}' has unexpected 'difficulty' field:"\
-                    "'#{difficulty}'.\n"\
-                    "Use one of the supported difficulty values:\n"\
+def validate_availability(key)
+    availability = key['availability']
+    unless SupportedDifficulties.include?(availability)
+        STDERR.puts "Entry '#{key['name']}' has unexpected 'availability' field:"\
+                    "'#{availability}'.\n"\
+                    "Use one of the supported availability values:\n"\
                     "\t#{SupportedDifficulties}"
-        exit ExitCodes::UNEXPECTED_DIFFICULTY
+        exit ExitCodes::UNEXPECTED_availability
     end
 end
 
@@ -145,9 +145,9 @@ def validate_website_entry(key, i)
         exit ExitCodes::MISSING_NAME
     end
     validate_accepted_keys(key)
-    error_on_missing_field(key, 'difficulty', ExitCodes::MISSING_DIFFICULTY)
+    error_on_missing_field(key, 'availability', ExitCodes::MISSING_availability)
     error_on_missing_field(key, 'names', ExitCodes::MISSING_DOMAINS)
-    validate_difficulty(key)
+    validate_availability(key)
     validate_localized_urls(key)
     validate_localized_notes(key)
 end

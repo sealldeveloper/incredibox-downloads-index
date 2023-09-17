@@ -15,7 +15,7 @@ assignees: ''
 
 - `name`: <!-- New Name -->
 - `url`: <!-- New URL -->
-- `difficulty`: <!-- New Difficulty: easy/medium/hard/limited/impossible -->
+- `availability`: <!-- New availability: downloadable/partially/unfinished/lost/unavailable -->
 - `notes`: <!-- New Notes -->
 - `email`: <!-- New Email Address -->
 - `email_subject`: <!-- New Email Subject -->

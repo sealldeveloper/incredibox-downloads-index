@@ -8,7 +8,7 @@
         <button class="popular">{{ site.data.trans[page.lang].popular }}</button>
         <button data-dropdown="#alphabetical-dropdown" class="az-sort">A - Z</button>
         <button data-dropdown="#number-dropdown" class="09-sort">0 - 9</button>
-        <button data-dropdown="#difficulty-dropdown" class="diff-sort">{{ site.data.trans[page.lang].difficulty }}</button>
+        <button data-dropdown="#availability-dropdown" class="diff-sort">{{ site.data.trans[page.lang].availability }}</button>
         <button class="reset">{{ site.data.trans[page.lang].reset }}</button>
     </div>
 </div>
@@ -18,29 +18,29 @@
         <p class="no-results">{{ site.data.trans[page.lang].noresults }} <a href='https://github.com/sealldeveloper/incredibox-downloads-index'>{{ site.data.trans[page.lang].noresultshelp }}</a>.</p>
 
         {% for entry in site.data.sites %}
-            <section class="site-block {{ entry.difficulty }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
+            <section class="site-block {{ entry.availability }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
                 <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
                     <span class="name">{{ entry.name }}</span>
                     <img class="icon" src="{{ site.url }}/assets/icons/link.svg" alt="URL" />
                 </a>
 
-                <p class="site-difficulty">
-                    {% if entry.difficulty == 'downloadable' %}
-                        {{ site.data.trans[page.lang].difficulty_easy }}
-                    {% elsif entry.difficulty == 'partially' %}
-                        {{ site.data.trans[page.lang].difficulty_medium }}
-                    {% elsif entry.difficulty == 'unfinished' %}
-                        {{ site.data.trans[page.lang].difficulty_hard }}
-                    {% elsif entry.difficulty == 'lost' %}
-                        {{ site.data.trans[page.lang].difficulty_limited }}
-                    {% elsif entry.difficulty == 'unavailable' %}
-                        {{ site.data.trans[page.lang].difficulty_impossible }}
+                <p class="site-availability">
+                    {% if entry.availability == 'downloadable' %}
+                        {{ site.data.trans[page.lang].availability_downloadable }}
+                    {% elsif entry.availability == 'partially' %}
+                        {{ site.data.trans[page.lang].availability_partially }}
+                    {% elsif entry.availability == 'unfinished' %}
+                        {{ site.data.trans[page.lang].availability_unfinished }}
+                    {% elsif entry.availability == 'lost' %}
+                        {{ site.data.trans[page.lang].availability_lost }}
+                    {% elsif entry.availability == 'unavailable' %}
+                        {{ site.data.trans[page.lang].availability_unavailable }}
                     {% endif %}
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] or entry.email or entry.difficulty == 'easy' %}
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.availability == 'downloadable' %}
                     <div class="tooltip-content">
                         {% if entry[lang_notes] %}
                             {{ entry[lang_notes] }}
@@ -48,8 +48,8 @@
                             {{ entry.notes }}
                         {% elsif entry.email %}
                             {{ site.data.trans[page.lang].defaultnote_email }}
-                        {% elsif entry.difficulty == 'easy' %}
-                            {{ site.data.trans[page.lang].defaultnote_easy }}
+                        {% elsif entry.availability == 'downloadable' %}
+                            {{ site.data.trans[page.lang].defaultnote_downloadable }}
                         {% endif %}
                         {% if entry.email %}
                             {% if entry.notes or entry[lang_notes] %}
@@ -81,11 +81,11 @@
             <h2>{{ site.data.trans[page.lang].guide }}</h2>
             <p>{{ site.data.trans[page.lang].guideexplanations }}</p>
             <ul>
-                <li class="downloadable"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_easy|safe }}</span> - {{ site.data.trans[page.lang].guideeasy|safe }}</li>
-                <li class="partially"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_medium|safe }}</span> - {{ site.data.trans[page.lang].guidemedium|safe }}</li>
-                <li class="unfinished"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_hard|safe }}</span> - {{ site.data.trans[page.lang].guidehard|safe }}</li>
-                <li class="lost"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_limited|safe }}</span> - {{ site.data.trans[page.lang].guidelimited|safe }}</li>
-                <li class="unavailable"><span class="difficulty">{{ site.data.trans[page.lang].difficulty_impossible|safe }}</span> - {{ site.data.trans[page.lang].guideimpossible|safe }}</li>
+                <li class="downloadable"><span class="availability">{{ site.data.trans[page.lang].availability_downloadable|safe }}</span> - {{ site.data.trans[page.lang].guidedownloadable|safe }}</li>
+                <li class="partially"><span class="availability">{{ site.data.trans[page.lang].availability_partially|safe }}</span> - {{ site.data.trans[page.lang].guidepartially|safe }}</li>
+                <li class="unfinished"><span class="availability">{{ site.data.trans[page.lang].availability_unfinished|safe }}</span> - {{ site.data.trans[page.lang].guideunfinished|safe }}</li>
+                <li class="lost"><span class="availability">{{ site.data.trans[page.lang].availability_lost|safe }}</span> - {{ site.data.trans[page.lang].guidelost|safe }}</li>
+                <li class="unavailable"><span class="availability">{{ site.data.trans[page.lang].availability_unavailable|safe }}</span> - {{ site.data.trans[page.lang].guideunavailable|safe }}</li>
             </ul>
         </div>
     </div>
@@ -130,13 +130,13 @@
     </ul>
 </div>
 
-<div id="difficulty-dropdown" class="dropdown dropdown-tip">
+<div id="availability-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu">
         <span class="diff-sort">
             {% assign difficulties = 'downloadable,partially,unfinished,lost,unavailable' | split:',' %}
-            {% for difficulty in difficulties %}
-                {% capture difficulty_value %}difficulty_{{ difficulty }}{% endcapture %}
-                <li><a href="#">{{ site.data.trans[page.lang][difficulty_value] }}</a></li>
+            {% for availability in difficulties %}
+                {% capture availability_value %}availability_{{ availability }}{% endcapture %}
+                <li><a href="#">{{ site.data.trans[page.lang][availability_value] }}</a></li>
             {% endfor %}
         </span>
     </ul>

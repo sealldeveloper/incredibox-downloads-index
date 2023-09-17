@@ -290,7 +290,7 @@ main {
     background-color: black;
 }
 
-.site-block .site-difficulty {
+.site-block .site-availability {
     background-color: #EAEBED;
     border: 1px solid #BFC6CC;
     border-top: 0;
@@ -407,7 +407,7 @@ main {
     margin: 5px 0;
 }
 
-.info-container .difficulty {
+.info-container .availability {
     color: white;
     display: inline-block;
     font-weight: bold;
@@ -415,23 +415,23 @@ main {
     padding: 6px 12px;
 }
 
-.info-container .downloadable .difficulty {
+.info-container .downloadable .availability {
     background-color: #7BAC7B;
     border: 1px solid #5D895D;
 }
-.info-container .partially .difficulty {
+.info-container .partially .availability {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
-.info-container .unfinished .difficulty {
+.info-container .unfinished .availability {
     background-color: #D04343;
     border: 1px solid #AC4949;
 }
-.info-container .lost .difficulty {
+.info-container .lost .availability {
     background-color: #B521CC;
     border: 1px solid #9923AC;
 }
-.info-container .unavailable .difficulty {
+.info-container .unavailable .availability {
     background-color: #2B2B2B;
     border: 1px solid black;
 }
