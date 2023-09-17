@@ -43,6 +43,16 @@
         ]
     },
     {
+        "name": "Azurite",
+        "url": "https://www.mediafire.com/file/98q7l15utodjfdn/Unusbox+-+Azurite_signed.apk/file",
+        "availability": "downloadable",
+        "notes": "Made by UnusD3v. No webapp, windows or mac download.",
+        "names": [
+            "azurite",
+            "unusbox"
+        ]
+    },
+    {
         "name": "Beatnik",
         "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
         "availability": "unfinished",
@@ -156,6 +166,15 @@
         ]
     },
     {
+        "name": "Ignis",
+        "url": "https://www.mediafire.com/file/hlvlwxpw9gspcqs/ignis.apk/file",
+        "availability": "downloadable",
+        "notes": "Made by UnusD3v. No webapp, windows or mac download.",
+        "names": [
+            "ignis"
+        ]
+    },
+    {
         "name": "The Invasion",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
         "availability": "downloadable",
@@ -164,6 +183,15 @@
             "invasion",
             "the invasion",
             "rb"
+        ]
+    },
+    {
+        "name": "Jura",
+        "url": "https://www.mediafire.com/file/c58lty1x5elt8ae/Incredibox_Jura.apk/file",
+        "availability": "downloadable",
+        "notes": "Made by UnusD3v. No webapp, windows or mac download.",
+        "names": [
+            "jura"
         ]
     },
     {
