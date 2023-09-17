@@ -106,6 +106,15 @@
         ]
     },
     {
+        "name": "Deluxe",
+        "url": "https://www.youtube.com/watch?v=AXjO7I2ka_U",
+        "availability": "unfinished",
+        "notes": "Made by Niki. Missing v9. No webapp or mac download.",
+        "names": [
+            "deluxe"
+        ]
+    },
+    {
         "name": "Evadare",
         "url": "https://www.incredirem.com/mods#comp-lct6c3xr",
         "availability": "downloadable",
@@ -242,6 +251,15 @@
         "names": [
             "moltentop",
             "meddlebox concepts"
+        ]
+    },
+    {
+        "name": "Mono",
+        "url": "https://www.mediafire.com/file/0yx8r2sb2djwkjw/real_mono_full_demo.zip/file",
+        "availability": "partially",
+        "notes": "Made by Apollo the polo. Currently in demo. Missing webapp, android and mac download.",
+        "names": [
+            "mono"
         ]
     },
     {
