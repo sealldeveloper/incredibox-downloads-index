@@ -2,12 +2,12 @@
     xmlns:moz="http://www.mozilla.org/2006/browser/search/">
     <ShortName>Incredibox Download Index</ShortName>
     <Description>
-        A directory of direct links to delete your account from web services.
+        A directory of direct links to download incredibox mods.
     </Description>
     <InputEncoding>UTF-8</InputEncoding>
     <Image width="64" height="64" type="image/png">
-        https://justdeleteme.xyz/assets/icons/apple-touch-icon-72x72-precomposed.png
+        https://modindex.boogoxseal.xyz/assets/icons/apple-touch-icon-72x72-precomposed.png
     </Image>
-    <Url type="text/html" method="get" template="https://justdeleteme.xyz/#{searchTerms}"/>
-    <moz:SearchForm>https://justdeleteme.xyz</moz:SearchForm>
+    <Url type="text/html" method="get" template="https://modindex.boogoxseal.xyz/#{searchTerms}"/>
+    <moz:SearchForm>https://modindex.boogoxseal.xyz</moz:SearchForm>
 </OpenSearchDescription>
