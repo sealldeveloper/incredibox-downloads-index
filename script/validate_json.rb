@@ -3,6 +3,7 @@
 # Validates JSON files in the _data directory
 
 require 'json'
+require 'set'
 
 module ExitCodes
     SUCCESS = 0
@@ -24,15 +25,15 @@ SupportedDifficulties = ["downloadable", "partially", "unfinished", "lost", "una
 SupportedEntryKeys = ["availability", "names", "email", "email_body", "email_subject", "meta", "name", "notes", "url"]
 SupportedLanguageKeys = [
     "about",
+    "availability",
+    "availability_downloadable",
+    "availability_lost",
+    "availability_partially",
+    "availability_unavailable",
+    "availability_unfinished",
     "contribute",
     "defaultnote_downloadable",
     "defaultnote_email",
-    "availability",
-    "availability_downloadable",
-    "availability_unfinished",
-    "availability_unavailable",
-    "availability_lost",
-    "availability_partially",
     "extension_browser",
     "extensionguide",
     "extensionp1",
@@ -44,10 +45,10 @@ SupportedLanguageKeys = [
     "guide",
     "guidedownloadable",
     "guideexplanations",
-    "guideunfinished",
-    "guideunavailable",
     "guidelost",
     "guidepartially",
+    "guideunavailable",
+    "guideunfinished",
     "hideinfo",
     "jgmd",
     "name",
