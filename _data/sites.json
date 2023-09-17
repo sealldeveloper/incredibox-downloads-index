@@ -5,9 +5,7 @@
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
-            "airline",
-            "arbox",
-            "rb"
+            "airline"
         ]
     },
     {
@@ -16,8 +14,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
-            "anniversary",
-            "rem"
+            "anniversary"
         ]
     },
     {
@@ -26,9 +23,7 @@
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp or mac download.",
         "names": [
-            "the armed forces",
-            "arbox",
-            "rb"
+            "the armed forces"
         ]
     },
     {
@@ -37,9 +32,7 @@
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
-            "augury",
-            "arbox",
-            "rb"
+            "augury"
         ]
     },
     {
@@ -48,8 +41,7 @@
         "availability": "downloadable",
         "notes": "Made by UnusD3v. No webapp, windows or mac download.",
         "names": [
-            "azurite",
-            "unusbox"
+            "azurite"
         ]
     },
     {
@@ -58,10 +50,7 @@
         "availability": "unfinished",
         "notes": "Made by BOOGO x SEAL.",
         "names": [
-            "beatnik",
-            "boogo x seal",
-            "boogo",
-            "seal"
+            "beatnik"
         ]
     },
     {
@@ -70,9 +59,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No webapp or mac download.",
         "names": [
-            "the bells",
-            "bells",
-            "rem"
+            "the bells"
         ]
     },
     {
@@ -81,8 +68,7 @@
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Missing polos. Based off of 'Blinding Lights' by 'The Weknd'.",
         "names": [
-            "blinding lights",
-            "rb"
+            "blinding lights"
         ]
     },
     {
@@ -91,8 +77,7 @@
         "availability": "downloadable",
         "notes": "Made by ColdSeamer. No webapp or mac download.",
         "names": [
-            "bonfire",
-            "coldseamer"
+            "bonfire"
         ]
     },
     {
@@ -110,8 +95,7 @@
         "availability": "unfinished",
         "notes": "Made by ColdSeamer. Based off of 'Deep Blue' by 'Incredible Polo'.",
         "names": [
-            "deep blue",
-            "coldseamer"
+            "deep blue"
         ]
     },
     {
@@ -129,8 +113,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No mac download.",
         "names": [
-            "evadare",
-            "rem"
+            "evadare"
         ]
     },
     {
@@ -141,8 +124,7 @@
         "names": [
             "evadare (demo)",
             "evadare",
-            "demo",
-            "rem"
+            "demo"
         ]
     },
     {
@@ -151,8 +133,7 @@
         "availability": "unfinished",
         "notes": "Made by Splatjack.",
         "names": [
-            "express",
-            "splatjack"
+            "express"
         ]
     },
     {
@@ -161,8 +142,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
-            "galaxy",
-            "rem"
+            "galaxy"
         ]
     },
     {
@@ -198,9 +178,7 @@
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
-            "invasion",
-            "the invasion",
-            "rb"
+            "invasion"
         ]
     },
     {
@@ -218,8 +196,7 @@
         "availability": "unfinished",
         "notes": "Made by Team Averill.",
         "names": [
-            "karuk",
-            "averill"
+            "karuk"
         ]
     },
     {
@@ -248,8 +225,7 @@
         "availability": "downloadable",
         "notes": "Made by ColdSeamer. No webapp or mac download.",
         "names": [
-            "mechanic",
-            "coldseamer"
+            "mechanic"
         ]
     },
     {
@@ -258,8 +234,7 @@
         "availability": "unfinished",
         "notes": "Made by Meddlebox Concepts.",
         "names": [
-            "moltentop",
-            "meddlebox concepts"
+            "moltentop"
         ]
     },
     {
@@ -296,8 +271,7 @@
         "availability": "downloadable",
         "notes": "Made by Flow Studios. Based off of 'Piege' by 'Saro'.",
         "names": [
-            "piege",
-            "flow studios"
+            "piege"
         ]
     },
     {
@@ -306,8 +280,7 @@
         "availability": "unfinished",
         "notes": "Made by Gumi. Bases off of 'Pushing Life' by 'Incredible Polo'.",
         "names": [
-            "pushing life",
-            "gumi"
+            "pushing life"
         ]
     },
     {
@@ -316,8 +289,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
-            "remixed",
-            "rem"
+            "remixed"
         ]
     },
     {
@@ -335,8 +307,7 @@
         "availability": "partially",
         "notes": "Made by Meddlebox Concepts. Missing animations, no webapp, windows or mac download.",
         "names": [
-            "sewertown",
-            "meddlebox concepts"
+            "sewertown"
         ]
     },
     {
@@ -363,8 +334,7 @@
         "availability": "partially",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Highly unfinished, missing animations, sounds and whole polos. Based off of 'Thriller' by 'Michael Jackson'.",
         "names": [
-            "thriller",
-            "rb"
+            "thriller"
         ]
     },
     {
@@ -391,9 +361,7 @@
         "availability": "downloadable",
         "notes": "Made by Artemiy Kopych. No webapp or mac download. Based off of 'Travis' by 'Incredible Polo'.",
         "names": [
-            "travis",
-            "artemiy",
-            "kopych"
+            "travis"
         ]
     },
     {
@@ -402,8 +370,7 @@
         "availability": "unfinished",
         "notes": "Made by Flow Studio. Based off of 'Two Faces' by 'Incredible Polo'.",
         "names": [
-            "two faces",
-            "flow studios"
+            "two faces"
         ]
     },
     {
@@ -412,9 +379,7 @@
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Based off of 'Two Faces' by 'Incredible Polo'.",
         "names": [
-            "two faces",
-            "arbox",
-            "rb"
+            "two faces"
         ]
     },
     {
@@ -423,8 +388,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
-            "unmasked",
-            "rem"
+            "unmasked"
         ]
     },
     {
@@ -442,8 +406,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No mac download.",
         "names": [
-            "void",
-            "rem"
+            "void"
         ]
     },
     {
@@ -452,8 +415,7 @@
         "availability": "downloadable",
         "notes": "Made by Rem. No mac download.",
         "names": [
-            "xrun",
-            "rem"
+            "xrun"
         ]
     }
 ]
