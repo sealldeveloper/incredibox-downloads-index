@@ -1,11 +1,11 @@
 [
     {
-        "name": "Airline",
+        "name": "Airline (Arbox E2)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode2.apk",
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
-            "airline"
+            "airline arbox"
         ]
     },
     {
@@ -18,21 +18,29 @@
         ]
     },
     {
-        "name": "The Armed Forces",
+        "name": "The Armed Forces (Arbox E4)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode4.apk",
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp or mac download.",
         "names": [
-            "the armed forces"
+            "the armed forces arbox"
         ]
     },
     {
-        "name": "Augury",
+        "name": "Augury (Arbox E3)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode3.apk",
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
-            "augury"
+            "augury arbox"
+        ]
+    },
+    {
+        "name": "Axiom",
+        "availability": "unavailable",
+        "notes": "Cancelled.",
+        "names": [
+            "axiom"
         ]
     },
     {
@@ -42,6 +50,15 @@
         "notes": "Made by UnusD3v. No webapp, windows or mac download.",
         "names": [
             "azurite"
+        ]
+    },
+    {
+        "name": "Balls",
+        "url": "https://www.mediafire.com/file/y91plvbo8f1170b/Balls+0.5.0+(com.pfp.balls).apk/file",
+        "availability": "downloadable",
+        "notes": "made by Rem and PersonFromBrazil. No webapp, windows or mac download.",
+        "names": [
+            "balls"
         ]
     },
     {
@@ -78,6 +95,14 @@
         "notes": "Made by ColdSeamer. No webapp or mac download.",
         "names": [
             "bonfire"
+        ]
+    },
+    {
+        "name": "Botanic",
+        "url": "https://www.youtube.com/watch?v=Mtum0Q4Nf_c",
+        "availability": "unfinished",
+        "names": [
+            "botanic"
         ]
     },
     {
@@ -173,12 +198,12 @@
         ]
     },
     {
-        "name": "The Invasion",
+        "name": "The Invasion  (Arbox E1)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
         "availability": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download.",
         "names": [
-            "invasion"
+            "invasion arbox"
         ]
     },
     {
@@ -244,6 +269,14 @@
         "notes": "Made by Apollo the polo. Currently in demo. Missing webapp, android and mac download.",
         "names": [
             "mono"
+        ]
+    },
+    {
+        "name": "Monochrome",
+        "url": "https://youtu.be/sX596RCybXA",
+        "availability": "unfinished",
+        "names": [
+            "monochrome"
         ]
     },
     {
@@ -320,12 +353,31 @@
         ]
     },
     {
-        "name": "Stargold",
+        "name": "Splaatbox",
+        "url": "https://www.mediafire.com/file/rajxqynnnyzajlv/Splaatbox_V1.apk/file",
+        "availability": "downloadable",
+        "notes": "Made by Splatjack. No webapp, windows or mac download.",
+        "names": [
+            "splaatbox"
+        ]
+    },
+    {
+        "name": "Stardust (Unbelivabox)",
+        "url": "https://drive.google.com/file/d/19Ule6FBVa9-R54Xv4N1CGlyTLGtcB65z/view",
+        "availability": "partially",
+        "notes": "Made by SlicedLimez. Unfinished animations. No webapp, windows or mac download.",
+        "names": [
+            "stardust unbelivabox"
+        ]
+    },
+    {
+        "name": "Stargold / Starbox",
         "url": "https://www.mediafire.com/file/tna9kikmgg7we8k/StarBox.apk/file",
         "availability": "partially",
         "notes": "Still in demo release, missing animations. No webapp, windows or mac download.",
         "names": [
-            "stargold"
+            "stargold",
+            "starbox"
         ]
     },
     {
