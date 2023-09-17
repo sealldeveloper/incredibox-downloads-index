@@ -301,8 +301,8 @@
     {
         "name": "Piege",
         "url": "https://boogoxseal.xyz/mods/piege",
-        "availability": "downloadable",
-        "notes": "Made by Flow Studios. Based off of 'Piege' by 'Saro'.",
+        "availability": "partially",
+        "notes": "Made by Flow Studios. Sprite issues with B5, massive lag on slower devices, some weird silhouettes. Based off of 'Piege' by 'Saro'.",
         "names": [
             "piege"
         ]
