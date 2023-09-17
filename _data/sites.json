@@ -46,7 +46,7 @@
         "name": "Beatnik",
         "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
         "difficulty": "unfinished",
-        "notes": "Made by BOOGO x SEAL",
+        "notes": "Made by BOOGO x SEAL.",
         "names": [
             "beatnik",
             "boogo x seal",
@@ -147,6 +147,15 @@
         ]
     },
     {
+        "name": "Groovbox",
+        "url": "https://www.youtube.com/watch?v=2388l-uqBb8",
+        "difficulty": "unfinished",
+        "notes": "Made by Deadeye. Based off of SFX from 'GroovePad'.",
+        "names": [
+            "groovbox"
+        ]
+    },
+    {
         "name": "The Invasion",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
         "difficulty": "downloadable",
@@ -161,7 +170,7 @@
         "name": "Karuk",
         "url": "https://www.youtube.com/watch?v=galKsFUlCWA",
         "difficulty": "unfinished",
-        "notes": "Made by Team Averill",
+        "notes": "Made by Team Averill.",
         "names": [
             "karuk",
             "averill"
@@ -201,7 +210,7 @@
         "name": "Moltentop",
         "url": "https://www.youtube.com/watch?v=Q27sUHhI3jo",
         "difficulty": "unfinished",
-        "notes": "Made by Meddlebox Concepts",
+        "notes": "Made by Meddlebox Concepts.",
         "names": [
             "moltentop",
             "meddlebox concepts"
@@ -218,10 +227,10 @@
         ]
     },
     {
-        "name": "Objects (Demo)",
+        "name": "Objects",
         "url": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
-        "difficulty": "downloadable",
-        "notes": "No webapp, windows or mac download.",
+        "difficulty": "partially",
+        "notes": "Still in demo. No webapp, windows or mac download.",
         "names": [
             "objects"
         ]
@@ -230,9 +239,10 @@
         "name": "Piege",
         "url": "https://boogoxseal.xyz/mods/piege",
         "difficulty": "downloadable",
-        "notes": "Based off of 'Piege' by 'Saro'.",
+        "notes": "Made by Flow Studios. Based off of 'Piege' by 'Saro'.",
         "names": [
-            "piege"
+            "piege",
+            "flow studios"
         ]
     },
     {
@@ -256,6 +266,15 @@
         ]
     },
     {
+        "name": "Set Fire",
+        "url": "https://www.mediafire.com/file/9zt37rx9h0jbc8l/Incredimad.apk/file",
+        "difficulty": "partially",
+        "notes": "Still in demo release, missing animations. No webapp, windows or mac download.",
+        "names": [
+            "set fire"
+        ]
+    },
+    {
         "name": "Sewertown",
         "url": "https://www.mediafire.com/file/aw7ax6ps96g7j5b/Incredibox_-_Sewertown_signed.apk/file",
         "difficulty": "partially",
@@ -266,27 +285,31 @@
         ]
     },
     {
-        "name": "Thriller (Beta)",
+        "name": "Stargold",
+        "url": "https://www.mediafire.com/file/tna9kikmgg7we8k/StarBox.apk/file",
+        "difficulty": "partailly",
+        "notes": "Still in demo release, missing animations. No webapp, windows or mac download.",
+        "names": [
+            "stargold"
+        ]
+    },
+    {
+        "name": "Thriller",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
-        "difficulty": "downloadable",
+        "difficulty": "partially",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Highly unfinished, missing animations, sounds and whole polos. Based off of 'Thriller' by 'Michael Jackson'.",
         "names": [
             "thriller",
-            "thriller (beta)",
-            "beta",
             "rb"
         ]
     },
     {
-        "name": "Time (Beta)",
+        "name": "Time",
         "url": "https://boogoxseal.xyz/mods/timebeta",
-        "difficulty": "downloadable",
+        "difficulty": "partially",
+        "notes": "Still in beta.",
         "names": [
-            "time",
-            "time beta",
-            "timebeta",
-            "time (beta)",
-            "time(beta)"
+            "time"
         ]
     },
     {
@@ -310,7 +333,17 @@
         ]
     },
     {
-        "name": "Two Faces",
+        "name": "Two Faces (Flow Studios)",
+        "url": "https://www.youtube.com/shorts/s6Ccs-froEA",
+        "difficulty": "unfinished",
+        "notes": "Made by Flow Studio. Based off of 'Two Faces' by 'Incredible Polo'.",
+        "names": [
+            "two faces",
+            "flow studios"
+        ]
+    },
+    {
+        "name": "Two Faces (RB)",
         "url": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxTwoFaces-Android.apk",
         "difficulty": "downloadable",
         "notes": "Made by RB - Series (pedo). No webapp, windows or mac download. Based off of 'Two Faces' by 'Incredible Polo'.",
@@ -331,10 +364,10 @@
         ]
     },
     {
-        "name": "Veda (Beta)",
+        "name": "Veda",
         "url": "https://www.youtube.com/watch?v=vxk3qsIy6qE",
-        "difficulty": "downloadable",
-        "notes": "Based off of 'Veda' by 'Incredible Polo'. No webapp or mac download.",
+        "difficulty": "partailly",
+        "notes": "Still in beta. Based off of 'Veda' by 'Incredible Polo'. No webapp or mac download.",
         "names": [
             "veda"
         ]
