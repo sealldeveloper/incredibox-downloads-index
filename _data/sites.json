@@ -174,8 +174,8 @@
     {
         "name": "Geek Dance",
         "url": "https://www.youtube.com/watch?v=CZSVa3iCsd0",
-        "availability": "unfinished",
-        "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.",
+        "availability": "downloadable",
+        "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.\n<a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">Windows</a>\n<a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">PC</a>",
         "names": [
             "geek dance"
         ]
@@ -252,6 +252,16 @@
         "notes": "Made by ColdSeamer. No webapp or mac download.",
         "names": [
             "mechanic"
+        ]
+    },
+    {
+        "name": "Rockin' (Melodeal)",
+        "url": "https://www.youtube.com/watch?v=Hc12lwjWh5M",
+        "availability": "unfinished",
+        "notes": "Made by LexLim.",
+        "names": [
+            "rockin'",
+            "melodeal"
         ]
     },
     {
