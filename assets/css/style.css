@@ -385,7 +385,11 @@ main {
     color: #be2eb5;
 }
 
-.download-icon a:hover {
+.download-icon {
+    opacity: 1;
+}
+
+.download-icon:hover {
     opacity: 0.7;
 }
 
