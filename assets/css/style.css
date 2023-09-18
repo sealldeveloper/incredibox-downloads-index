@@ -385,6 +385,10 @@ main {
     color: #be2eb5;
 }
 
+.download-icon a:hover {
+    color: #be2eb5;
+}
+
 .info-container h2 {
     color: white;
     font-weight: 200;

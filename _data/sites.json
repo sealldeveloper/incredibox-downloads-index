@@ -305,7 +305,10 @@
         "url": "https://boogoxseal.xyz/mods/piege",
         "availability": "partially",
         "notes": "Made by Flow Studios. Sprite issues with B5, massive lag on slower devices, some weird silhouettes. Based off of 'Piege' by 'Saro'.",
+        "windows": "https://github.com/sealldeveloper/piege/releases/download/v1.1.0/IncrediboxPiege-Windows-v1.1.0.zip",
         "mac": "https://github.com/sealldeveloper/piege/releases/download/v1.1.0/IncrediboxPiege-Mac-v1.1.0.zip",
+        "android": "https://github.com/sealldeveloper/piege/releases/download/v1.1.0/IncrediboxPiege-Android-v1.1.0.apk",
+        "webapp": "https://sealldeveloper.github.io/piege/",
         "names": [
             "piege"
         ]
