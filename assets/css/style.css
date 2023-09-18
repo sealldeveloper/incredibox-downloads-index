@@ -386,7 +386,7 @@ main {
 }
 
 .download-icon a:hover {
-    color: #be2eb5;
+    opacity: 0.7;
 }
 
 .info-container h2 {

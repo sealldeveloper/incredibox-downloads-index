@@ -51,26 +51,44 @@
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
                 {% if entry.notes or entry[lang_notes] or entry.email or entry.availability == 'downloadable' %}
                     <div class="tooltip-content">
+                        {% if entry.creator %}
+                            <b>Made By: </b>{{entry.creator}}
+                        {% endif %}
+                        {% if entry.song %}
+                            {% if entry.creator %}
+                                <br>
+                            {% endif %}
+                            <b>Based off of: </b>{{entry.song}}
+                        {% endif %}
                         {% if entry[lang_notes] %}
+                            {% if entry.song %}
+                                <br>
+                            {% endif %}
                             {{ entry[lang_notes] }}
                         {% elsif entry.notes %}
+                            {% if entry.song %}
+                                <br>
+                            {% endif %}
                             {{ entry.notes }}
                         {% elsif entry.availability == 'downloadable' %}
+                            {% if entry.song %}
+                                <br>
+                            {% endif %}
                             {{ site.data.trans[page.lang].defaultnote_downloadable }}
                         {% endif %}
                         {% if entry.windows or entry.mac or entry.android or entry.mac %}
                             <br><br>
                             {% if entry.mac %}
-                            <a class="download-icon" href="{{ entry.mac }}"><img class="icon" src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Download" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.mac }}"><img class="icon" src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Download" /></a>
                             {% endif %}
                             {% if entry.windows %}
-                            <a class="download-icon" href="{{ entry.windows }}"><img class="icon" src="{{ site.url }}/assets/icons/windows.svg" alt="Windows Download" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.windows }}"><img class="icon" src="{{ site.url }}/assets/icons/windows.svg" alt="Windows Download" /></a>
                             {% endif %}
                             {% if entry.android %}
-                            <a class="download-icon" href="{{ entry.android }}"><img class="icon" src="{{ site.url }}/assets/icons/android.svg" alt="Android Download" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.android }}"><img class="icon" src="{{ site.url }}/assets/icons/android.svg" alt="Android Download" /></a>
                             {% endif %}
                             {% if entry.webapp %}
-                            <a class="download-icon" href="{{ entry.webapp }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.webapp }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
                             {% endif %}
                         {% endif %}
 
