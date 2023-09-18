@@ -255,16 +255,6 @@
         ]
     },
     {
-        "name": "Rockin' (Melodeal)",
-        "url": "https://www.youtube.com/watch?v=Hc12lwjWh5M",
-        "availability": "unfinished",
-        "notes": "Made by LexLim.",
-        "names": [
-            "rockin'",
-            "melodeal"
-        ]
-    },
-    {
         "name": "Moltentop",
         "url": "https://www.youtube.com/watch?v=Q27sUHhI3jo",
         "availability": "unfinished",
@@ -334,6 +324,16 @@
         "notes": "Made by Rem. No webapp, windows or mac download.",
         "names": [
             "remixed"
+        ]
+    },
+    {
+        "name": "Rockin' (Melodeal)",
+        "url": "https://www.youtube.com/watch?v=Hc12lwjWh5M",
+        "availability": "unfinished",
+        "notes": "Made by LexLim.",
+        "names": [
+            "rockin'",
+            "melodeal"
         ]
     },
     {
