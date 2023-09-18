@@ -166,11 +166,11 @@ json_files = Dir.glob('_data/**/*').select { |f| File.file?(f) }
 json_files.each do |file|
     begin
         json = JSON.parse(File.read(file))
-        is_sites_json = File.basename(file) =~ /mods.json/
+        is_sites_json = File.basename(file) =~ /sites.json/
         keys_in_language_json = []
         # check for alphabetical ordering
         json.each_with_index do |(key, _), i|
-            # mods.json is an array of objects; this would expand to:
+            # sites.json is an array of objects; this would expand to:
             #   key = { ... }
             #   i = 0
             # hence, the key variable holds the actual value

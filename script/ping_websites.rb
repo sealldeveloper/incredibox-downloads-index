@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Prints mods.json entries containing links which may be out of operation or
+# Prints sites.json entries containing links which may be out of operation or
 # unreachable
 
 require "net/http"
@@ -68,7 +68,7 @@ rescue OpenSSL::SSL::SSLError
     true
 end
 
-json = JSON.parse(File.read('_data/mods.json'))
+json = JSON.parse(File.read('_data/sites.json'))
 pool = ThreadPool.new(20)
 # check if a website is alive
 json.each_with_index do |(key, _), i|
