@@ -445,12 +445,22 @@
     },
     {
         "name": "Travis",
-        "url": "https://www.youtube.com/watch?v=AG5Gt0-7x-Q",
+        "android": "https://www.mediafire.com/file/y9hfwiemjslqz2x/Incredibox_-_Travis_v1.1.0_%2528Android%2529.apk/file",
+        "windows": "https://www.mediafire.com/file/oy9sdb08tto15re/Incredibox_-_Travis_v1.1.0_%2528PC%2529.zip/file",
         "availability": "downloadable",
         "creator": "Artemiy Kopych",
         "song": "Travis by Incredible Polo",
         "names": [
             "travis"
+        ]
+    },
+    {
+        "name": "Tribal",
+        "url": "https://www.youtube.com/watch?v=7Q82u70cb9E",
+        "availability": "unfinished",
+        "creator": "The Jesterboxer",
+        "names": [
+            "tribal"
         ]
     },
     {
