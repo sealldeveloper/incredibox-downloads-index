@@ -140,6 +140,15 @@
         ]
     },
     {
+        "name": "Evadare (Demo)",
+        "android": "https://www.mediafire.com/download/wnr4e68d952abqx",
+        "availability": "downloadable",
+        "creator": "Rem",
+        "names": [
+            "evadare demo (demo)"
+        ]
+    },
+    {
         "name": "Evadare (Evadre E1)",
         "windows": "https://www.mediafire.com/file/jmjv60sfhysizdg/Xrun-PC.zip/file",
         "android": "https://www.mediafire.com/file/tpvvxyv8dcvszum/Incredibox_-_Xrun_Update_%255BRem%255D.apk/file",
@@ -148,15 +157,6 @@
         "creator": "Rem",
         "names": [
             "evadare e1"
-        ]
-    },
-    {
-        "name": "Evadare (Demo)",
-        "android": "https://www.mediafire.com/download/wnr4e68d952abqx",
-        "availability": "downloadable",
-        "creator": "Rem",
-        "names": [
-            "evadare demo (demo)"
         ]
     },
     {
