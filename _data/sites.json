@@ -174,7 +174,9 @@
     {
         "name": "Geek Dance",
         "availability": "downloadable",
-        "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.<br><br><a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">Windows</a><br><a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">PC</a>",
+        "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.<br><br><a href=\"https://www.mediafire.com/file/cgg28bkefi6rzdn/Geek_Dance_-_V_1.0.apk/file\">Windows</a><br><a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">PC</a>",
+        "windows": "https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file",
+        "android": "https://www.mediafire.com/file/cgg28bkefi6rzdn/Geek_Dance_-_V_1.0.apk/file",
         "names": [
             "geek dance"
         ]
@@ -303,6 +305,7 @@
         "url": "https://boogoxseal.xyz/mods/piege",
         "availability": "partially",
         "notes": "Made by Flow Studios. Sprite issues with B5, massive lag on slower devices, some weird silhouettes. Based off of 'Piege' by 'Saro'.",
+        "mac": "https://github.com/sealldeveloper/piege/releases/download/v1.1.0/IncrediboxPiege-Mac-v1.1.0.zip",
         "names": [
             "piege"
         ]

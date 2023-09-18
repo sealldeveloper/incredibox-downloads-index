@@ -58,6 +58,11 @@
                         {% elsif entry.availability == 'downloadable' %}
                             {{ site.data.trans[page.lang].defaultnote_downloadable }}
                         {% endif %}
+                        {% if entry.windows or entry.mac or entry.android or entry.mac %}
+                            <br><br>
+                            {% if entry.mac %}
+                            <a href="{entry.mac}"><img class="icon" src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Downloads" /></a>
+
                     </div>
                     <a href="#" class="tooltip-toggle contains-info">
                         <span class="show-info">{{ site.data.trans[page.lang].showinfo }}</span>
