@@ -20,7 +20,7 @@
         {% for entry in site.data.sites %}
             <section class="site-block {{ entry.availability }}"{% if entry.meta == 'popular' %} data-popular{% endif %}>
                 {% capture lang_url %}url_{{ page.lang }}{% endcapture %}
-                <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% else %}{{entry.url}}{% endif %}">
+                <a class="site-header" href="{% if entry[lang_url] %}{{ entry[lang_url] }}{% elsif entry.url %}{{ entry.url }}{% else %}{ 'javascript:window.location.href=window.location.href' }{% endif %}">
                     <span class="name">{{ entry.name }}</span>
                     <img class="icon" src="{{ site.url }}/assets/icons/link.svg" alt="URL" />
                 </a>
