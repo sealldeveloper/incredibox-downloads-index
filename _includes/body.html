@@ -23,9 +23,9 @@
                 <a 
                     class="site-header" 
                     {% if entry[lang_url] %}
-                        href="{ entry[lang_url] }"
+                        href="{{} entry[lang_url] }}"
                     {% elsif entry.url %}
-                        href="{ entry.url }"
+                        href="{{ entry.url }}"
                     {% endif %}
                     >
                     <span class="name">{{ entry.name }}</span>
