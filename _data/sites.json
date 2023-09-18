@@ -173,9 +173,8 @@
     },
     {
         "name": "Geek Dance",
-        "url": "https://www.youtube.com/watch?v=CZSVa3iCsd0",
         "availability": "downloadable",
-        "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.\n<a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">Windows</a>\n<a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">PC</a>",
+        "notes": "Made by LTFD. Based off of 'Geek Dance' by 'Incredible Polo'.<br><a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">Windows</a><br><a href=\"https://www.mediafire.com/file/jkkmcg1obvucmup/Geek_Dance_PC.zip/file\">PC</a>",
         "names": [
             "geek dance"
         ]
