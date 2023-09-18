@@ -70,11 +70,6 @@
                                 <br>
                             {% endif %}
                             {{ entry.notes }}
-                        {% elsif entry.availability == 'downloadable' %}
-                            {% if entry.song %}
-                                <br>
-                            {% endif %}
-                            {{ site.data.trans[page.lang].defaultnote_downloadable }}
                         {% endif %}
                         {% if entry.windows or entry.mac or entry.android or entry.mac %}
                             <br><br>
