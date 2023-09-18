@@ -1,6 +1,6 @@
 # Contributing
 
-The sites, urls and additional notes are stored in `_data/sites.json`. If you want to add a site to the list you'll need the following information:
+The sites, urls and additional notes are stored in `_data/mods.json`. If you want to add a site to the list you'll need the following information:
 
 - `name`: The name of the service.
 - `url`: The url of the account-deletion page. If no such page exists, the url should be a contact or help page explaining the process of account deletion.
@@ -26,7 +26,7 @@ The sites, urls and additional notes are stored in `_data/sites.json`. If you wa
 4. Any steps for the process should be detailed in the notes (if necessary).
 5. Be sure to indent 4 spaces per level.
 6. Be sure to place your entry ALPHABETICALLY in the current list.
-7. Please test that your changes work validating `sites.json` with something like [JSON Lint](http://jsonlint.com/) or the included "validate_json.rb" script
+7. Please test that your changes work validating `mods.json` with something like [JSON Lint](http://jsonlint.com/) or the included "validate_json.rb" script
 
 ## Translation
 
