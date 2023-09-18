@@ -79,16 +79,16 @@
                         {% if entry.windows or entry.mac or entry.android or entry.mac %}
                             <br><br>
                             {% if entry.mac %}
-                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.mac }}"><img src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Download" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.mac }}"><img class="icon" src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Download" /></a>
                             {% endif %}
                             {% if entry.windows %}
-                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.windows }}"><img src="{{ site.url }}/assets/icons/windows.svg" alt="Windows Download" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.windows }}"><img class="icon" src="{{ site.url }}/assets/icons/windows.svg" alt="Windows Download" /></a>
                             {% endif %}
                             {% if entry.android %}
-                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.android }}"><img src="{{ site.url }}/assets/icons/android.svg" alt="Android Download" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.android }}"><img class="icon" src="{{ site.url }}/assets/icons/android.svg" alt="Android Download" /></a>
                             {% endif %}
                             {% if entry.webapp %}
-                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.webapp }}"><img src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
+                            <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.webapp }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
                             {% endif %}
                         {% endif %}
 
