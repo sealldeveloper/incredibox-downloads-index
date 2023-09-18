@@ -62,10 +62,13 @@
                             <br><br>
                             {% if entry.mac %}
                             <a class="download-icon" href="{{ entry.mac }}"><img class="icon" src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Download" /></a>
+                            {% endif %}
                             {% if entry.windows %}
                             <a class="download-icon" href="{{ entry.windows }}"><img class="icon" src="{{ site.url }}/assets/icons/windows.svg" alt="Windows Download" /></a>
+                            {% endif %}
                             {% if entry.android %}
                             <a class="download-icon" href="{{ entry.android }}"><img class="icon" src="{{ site.url }}/assets/icons/android.svg" alt="Android Download" /></a>
+                            {% endif %}
                             {% if entry.webapp %}
                             <a class="download-icon" href="{{ entry.webapp }}"><img class="icon" src="{{ site.url }}/assets/icons/webapp.svg" alt="Webapp" /></a>
                             {% endif %}
