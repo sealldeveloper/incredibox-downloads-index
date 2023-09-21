@@ -131,8 +131,9 @@
     },
     {
         "name": "Deluxe",
-        "url": "https://www.youtube.com/watch?v=AXjO7I2ka_U",
-        "availability": "unfinished",
+        "android": "https://www.mediafire.com/file/wdjrdqq4c7acclj/Incredibox+Deluxe+v8+update_signed.apk/file",
+        "windows": "https://www.mediafire.com/file/bhntwfaubp6psdh/Incredibox+-+Deluxe+-+Dystopia+Update+-+PC.zip/file",
+        "availability": "partially",
         "creator": "Niki",
         "notes": "Missing v9.",
         "names": [

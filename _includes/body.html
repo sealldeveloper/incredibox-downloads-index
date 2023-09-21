@@ -61,12 +61,12 @@
                             <b>Based off of: </b>{{entry.song}}
                         {% endif %}
                         {% if entry[lang_notes] %}
-                            {% if entry.song %}
+                            {% if entry.song or entry.creator %}
                                 <br>
                             {% endif %}
                             {{ entry[lang_notes] }}
                         {% elsif entry.notes %}
-                            {% if entry.song %}
+                            {% if entry.song or entry.creator %}
                                 <br>
                             {% endif %}
                             {{ entry.notes }}
