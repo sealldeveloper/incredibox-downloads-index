@@ -52,27 +52,20 @@
                 {% if entry.notes or entry[lang_notes] or entry.email or entry.song or entry.creator or entry.song or entry.windows or entry.mac or entry.android or entry.webapp %}
                     <div class="tooltip-content">
                         {% if entry.creator %}
-                            <b>Made By: </b>{{entry.creator}}
+                            <b>Made By: </b>{{entry.creator}}<br>
                         {% endif %}
                         {% if entry.song %}
-                            {% if entry.creator %}
-                                <br>
-                            {% endif %}
-                            <b>Based off of: </b>{{entry.song}}
+                            <b>Based off of: </b>{{entry.song}}<br>
                         {% endif %}
                         {% if entry[lang_notes] %}
-                            {% if entry.song or entry.creator %}
-                                <br>
-                            {% endif %}
-                            {{ entry[lang_notes] }}
+                            {{ entry[lang_notes] }}<br>
                         {% elsif entry.notes %}
-                            {% if entry.song or entry.creator %}
-                                <br>
-                            {% endif %}
-                            {{ entry.notes }}
+                            {{ entry.notes }}<br>
                         {% endif %}
                         {% if entry.windows or entry.mac or entry.android or entry.mac %}
-                            <br><br>
+                            {% if entry.creator or entry.song or entry.notes or entry[lang_notes] %}
+                                <br>
+                            {% endif %}
                             <b>Downloads</b><br>
                             {% if entry.mac %}
                             <a class="download-icon" target="_blank" rel="noopener noreferrer" href="{{ entry.mac }}"><img class="icon" src="{{ site.url }}/assets/icons/mac.svg" alt="Mac Download" /></a>
