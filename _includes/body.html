@@ -49,7 +49,7 @@
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] or entry.email or entry.availability == 'downloadable' %}
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.song or entry.creator or entry.song or entry.windows or entry.mac or entry.android or entry.webapp %}
                     <div class="tooltip-content">
                         {% if entry.creator %}
                             <b>Made By: </b>{{entry.creator}}
