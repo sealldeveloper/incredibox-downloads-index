@@ -324,6 +324,7 @@
     },
     {
         "name": "The Original on Mobile",
+        "availability": "downloadable",
         "android": "https://www.mediafire.com/download/ka4ilot3zhqoi06",
         "creator": "Artemiy Kopych",
         "song": "The original Flash version of Incredibox",
