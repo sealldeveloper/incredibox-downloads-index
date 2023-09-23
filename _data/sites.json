@@ -209,6 +209,16 @@
         ]
     },
     {
+        "name": "Incredibox Extended Bonuses Mod",
+        "url": "https://www.youtube.com/watch?v=b9bOpSKKv6Y",
+        "availability": "lost",
+        "notes": "Download link is dead.",
+        "creator": "The Incredi Modmakers",
+        "names": [
+            "incredibox extended bonuses mod"
+        ]
+    },
+    {
         "name": "The Invasion (Arbox E1)",
         "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode1.apk",
         "availability": "downloadable",
@@ -313,6 +323,15 @@
         ]
     },
     {
+        "name": "The Original on Mobile",
+        "android": "https://www.mediafire.com/download/ka4ilot3zhqoi06",
+        "creator": "Artemiy Kopych",
+        "song": "The original Flash version of Incredibox",
+        "names": [
+            "the originals on mobile"
+        ]
+    },
+    {
         "name": "Piege",
         "url": "https://boogoxseal.xyz/mods/piege",
         "availability": "partially",
@@ -344,6 +363,15 @@
         "creator": "Rem",
         "names": [
             "remixed"
+        ]
+    },
+    {
+        "name": "Reskincredibox",
+        "android": "https://drive.google.com/file/d/12-IdS359eF1IaCJyUIgUhi1rfS5x63so/view",
+        "availability": "downloadable",
+        "creator": "The Incredi Modmakers",
+        "names": [
+            "reskincredibox"
         ]
     },
     {
@@ -514,6 +542,15 @@
         "creator": "Rem",
         "names": [
             "void evadare e3"
+        ]
+    },
+    {
+        "name": "Wonderland",
+        "url": "https://www.youtube.com/watch?v=KUPgE8inEyY",
+        "availability": "unifinished",
+        "creator": "Marchell",
+        "names": [
+            "wonderland"
         ]
     },
     {
