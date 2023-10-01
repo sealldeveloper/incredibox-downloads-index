@@ -87,7 +87,7 @@
         "availability": "downloadable",
         "creator": "RB - Series (pedo)",
         "notes": "Missing polos.",
-        "song": "Blinding Lights by The Weknd",
+        "song": "Blinding Lights by The Weeknd",
         "names": [
             "blinding lights"
         ]
@@ -267,6 +267,15 @@
         ]
     },
     {
+        "name": "Magicbox",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=yCcZ0HoJ7EM",
+        "creator": "REDSINDER",
+        "names": [
+            "magicbox"
+        ]
+    },
+    {
         "name": "Mechanic (Coldbox)",
         "availability": "downloadable",
         "windows": "https://www.mediafire.com/file/kst2v5sdfcom8q9/Coldbox+-+PC+Port.zip/file",
@@ -320,6 +329,19 @@
         "notes": "Still in demo.",
         "names": [
             "objects"
+        ]
+    },
+    {
+        "name": "Ocean Heart",
+        "availability": "downloadable",
+        "windows": "https://github.com/sealldeveloper/ocean-heart/releases/download/v1.0.0/IncrediboxOceanHeart-Windows-v1.0.0.zip",
+        "android": "https://github.com/sealldeveloper/ocean-heart/releases/download/v1.0.0/IncrediboxOceanHeart-Android-v1.0.0.apk",
+        "mac": "https://github.com/sealldeveloper/ocean-heart/releases/download/v1.0.0/IncrediboxOceanHeart-Mac-v1.0.0.zip",
+        "webapp": "https://sealldeveloper.github.io/ocean-heart/",
+        "url": "https://boogoxseal.xyz/mods/oceanheart",
+        "creator": "LexLim",
+        "names": [
+            "ocean heart"
         ]
     },
     {
@@ -535,7 +557,7 @@
         ]
     },
     {
-        "name": "Void (Evadre E2)",
+        "name": "Void (Evadre E3)",
         "availability": "downloadable",
         "windows": "https://www.mediafire.com/file/q2lwc7j6f004l79/Incredibox+-+Void+0.2.9+PC.zip/file",
         "android": "https://www.mediafire.com/file/5aefysb2rxlphjy/Incredibox+-+Void+0.2.9+",
