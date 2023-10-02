@@ -55,7 +55,10 @@
     },
     {
         "name": "Balls",
-        "android": "https://www.mediafire.com/file/y91plvbo8f1170b/Balls+0.5.0+(com.pfp.balls).apk/file",
+        "windows": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Windows-v1.0.0.zip",
+        "android": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Android-v1.0.0.apk",
+        "mac": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Mac-v1.0.0.zip",
+        "webapp": "https://sealldeveloper.github.io/balls/",
         "availability": "downloadable",
         "creator": "Rem & PersonFromBrazil",
         "names": [
@@ -190,7 +193,7 @@
         ]
     },
     {
-        "name": "Groovbox",
+        "name": "Groovebox",
         "url": "https://www.youtube.com/watch?v=2388l-uqBb8",
         "availability": "unfinished",
         "creator": "Deadeye",
