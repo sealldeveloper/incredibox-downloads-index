@@ -261,6 +261,15 @@
         ]
     },
     {
+        "name": "Magicbox",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=yCcZ0HoJ7EM",
+        "creator": "REDSINDER",
+        "names": [
+            "magicbox"
+        ]
+    },
+    {
         "name": "The Masks",
         "windows": "https://www.mediafire.com/download/k7jvr1he83bovr9",
         "android": "https://www.mediafire.com/download/pr4xfyuf297l101",
@@ -268,15 +277,6 @@
         "creator": "BonBonnet",
         "names": [
             "the masks"
-        ]
-    },
-    {
-        "name": "Magicbox",
-        "availability": "unfinished",
-        "url": "https://www.youtube.com/watch?v=yCcZ0HoJ7EM",
-        "creator": "REDSINDER",
-        "names": [
-            "magicbox"
         ]
     },
     {
