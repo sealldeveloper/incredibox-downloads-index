@@ -56,11 +56,12 @@
     {
         "name": "Balls",
         "windows": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Windows-v1.0.0.zip",
-        "android": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Android-v1.0.0.apk",
+        "android": "https://www.mediafire.com/file/ilyxl6pmww2b8x9/Incredibox_-_Balls.apk/file",
         "mac": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Mac-v1.0.0.zip",
         "webapp": "https://sealldeveloper.github.io/balls/",
         "availability": "downloadable",
         "creator": "Rem & PersonFromBrazil",
+        "notes": "Android port courtesy of Ters for the fix.",
         "names": [
             "balls"
         ]
@@ -261,8 +262,8 @@
     },
     {
         "name": "The Masks",
-        "windows": "https://docs.google.com/document/d/15CvGvr791htwdvpaa9od6EogcN2FyNnO3bF_o4_opVE/edit?pli=1",
-        "android": "https://docs.google.com/document/d/15CvGvr791htwdvpaa9od6EogcN2FyNnO3bF_o4_opVE/edit?pli=1",
+        "windows": "https://www.mediafire.com/download/k7jvr1he83bovr9",
+        "android": "https://www.mediafire.com/download/pr4xfyuf297l101",
         "availability": "downloadable",
         "creator": "BonBonnet",
         "names": [

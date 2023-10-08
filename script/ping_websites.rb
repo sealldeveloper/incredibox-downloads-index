@@ -74,8 +74,16 @@ pool = ThreadPool.new(20)
 json.each_with_index do |(key, _), i|
     name = key['name']
     url = key['url']
-    pool.schedule(name, url) do |name , url|
+    windows = key['windows']
+    android = key['android']
+    mac = key['mac']
+    webapp = key['webapp']
+    pool.schedule(name, url, windows, android, mac, webapp) do |name , url, windows, android, mac, webapp|
         url_exist(name, url)
+        url_exist(name, windows)
+        url_exist(name, android)
+        url_exist(name, mac)
+        url_exist(name, webapp)
     end
 end
 pool.run!
