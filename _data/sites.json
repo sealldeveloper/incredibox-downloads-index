@@ -86,14 +86,25 @@
         ]
     },
     {
-        "name": "Blinding Lights",
+        "name": "Blinding Lights (RB)",
         "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
         "availability": "downloadable",
         "creator": "RB - Series (pedo)",
         "notes": "Missing polos.",
         "song": "Blinding Lights by The Weeknd",
         "names": [
-            "blinding lights"
+            "blinding lights (rb)"
+        ]
+    },
+    {
+        "name": "Blinding Lights (Soviet Fudge)",
+        "url": "https://www.youtube.com/watch?v=ySHxobMmxxs",
+        "availability": "unfinished",
+        "creator": "Soviet Fudge",
+        "notes": "A remake of RB - Series (pedo)'s unfinished mod.",
+        "song": "Blinding Lights by The Weeknd",
+        "names": [
+            "blinding lights (soviet fudge)"
         ]
     },
     {
@@ -121,6 +132,15 @@
         "availability": "downloadable",
         "names": [
             "cursedbox"
+        ]
+    },
+    {
+        "name": "Darktech (Darkbox E1)",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=opyvXxN-aq4",
+        "creator": "Incredible Beatboxer",
+        "names": [
+            "darktech darkbox e1"
         ]
     },
     {
@@ -171,6 +191,16 @@
         "creator": "Splatjack.",
         "names": [
             "express"
+        ]
+    },
+    {
+        "name": "Fields of the Ground",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=lcxFQRHEn3g",
+        "android": "https://www.mediafire.com/file/egpfl6fbanm8zr8/Incredibox+-+Fields+of+the+Ground+Release_signed.apk/file",
+        "creator": "Endok Kopyor",
+        "names": [
+            "fields of the ground"
         ]
     },
     {
@@ -329,6 +359,7 @@
     {
         "name": "Objects",
         "android": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
+        "windows": "https://drive.google.com/file/d/1kxLdC0AZicaSpTxq93AS47lx8RLrvv9q/view",
         "availability": "partially",
         "notes": "Still in demo.",
         "names": [
