@@ -100,11 +100,11 @@
         "name": "Blinding Lights (Soviet Fudge)",
         "url": "https://www.youtube.com/watch?v=ySHxobMmxxs",
         "availability": "unfinished",
-        "creator": "Soviet Fudge",
+        "creator": "Concepter",
         "notes": "A remake of RB - Series (pedo)'s unfinished mod.",
         "song": "Blinding Lights by The Weeknd",
         "names": [
-            "blinding lights (soviet fudge)"
+            "blinding lights (concepter)"
         ]
     },
     {
@@ -188,7 +188,7 @@
         "name": "Express",
         "url": "https://www.youtube.com/watch?v=VQBr5cwzP-E",
         "availability": "unfinished",
-        "creator": "Splatjack.",
+        "creator": "Splatjack",
         "names": [
             "express"
         ]
@@ -472,7 +472,7 @@
         "name": "Splaatbox",
         "android": "https://www.mediafire.com/file/rajxqynnnyzajlv/Splaatbox_V1.apk/file",
         "availability": "downloadable",
-        "creator": "Splatjack",
+        "creator": "Object Show Animations",
         "names": [
             "splaatbox"
         ]
@@ -494,6 +494,15 @@
         "notes": "Still in demo release, missing animations.",
         "names": [
             "stargold starbox"
+        ]
+    },
+    {
+        "name": "Steel Factory",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=ainc1di4ePs",
+        "creator": "Benvid10",
+        "names": [
+            "steel factory"
         ]
     },
     {
