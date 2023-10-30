@@ -78,12 +78,14 @@ json.each_with_index do |(key, _), i|
     android = key['android']
     mac = key['mac']
     webapp = key['webapp']
-    pool.schedule(name, url, windows, android, mac, webapp) do |name , url, windows, android, mac, webapp|
+    originalurl = key['original_url']
+    pool.schedule(name, url, windows, android, mac, webapp, originalurl) do |name , url, windows, android, mac, webapp, originalurl|
         url_exist(name, url)
         url_exist(name, windows)
         url_exist(name, android)
         url_exist(name, mac)
         url_exist(name, webapp)
+        url_exist(name, originalurl)
     end
 end
 pool.run!

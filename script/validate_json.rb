@@ -22,7 +22,7 @@ module ExitCodes
 end
 
 SupportedDifficulties = ["downloadable", "partially", "unfinished", "lost", "unavailable"]
-SupportedEntryKeys = ["availability", "names", "email", "email_body", "email_subject", "meta", "name", "notes", "url", "windows", "mac", "android", "webapp", "song", "creator"]
+SupportedEntryKeys = ["availability", "names", "email", "email_body", "email_subject", "meta", "name", "notes", "url", "windows", "mac", "android", "webapp", "song", "creator", "original", "original_url"]
 SupportedLanguageKeys = [
     "about",
     "availability",

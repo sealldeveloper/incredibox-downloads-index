@@ -57,13 +57,18 @@
                         {% if entry.song %}
                             <b>Based off of: </b>{{entry.song}}<br>
                         {% endif %}
+                        {% if entry.original and entry.original_link %}
+                            <b>Original Mod</b><a target="_blank" rel="noopener noreferrer" href="{{entry.original_link}}">{{entry.original}}</a><br>
+                        {% elsif entry.original%}
+                            <b>Original Mod</b>{{entry.original}}<br>
+                        {% endif %}
                         {% if entry[lang_notes] %}
                             {{ entry[lang_notes] }}<br>
                         {% elsif entry.notes %}
                             {{ entry.notes }}<br>
                         {% endif %}
                         {% if entry.windows or entry.mac or entry.android or entry.mac %}
-                            {% if entry.creator or entry.song or entry.notes or entry[lang_notes] %}
+                            {% if entry.creator or entry.song or entry.notes or entry[lang_notes] or entry.original %}
                                 <br>
                             {% endif %}
                             <b>Downloads</b><br>
