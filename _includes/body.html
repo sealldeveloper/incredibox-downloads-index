@@ -49,13 +49,13 @@
                 </p>
 
                 {% capture lang_notes %}notes_{{ page.lang }}{% endcapture %}
-                {% if entry.notes or entry[lang_notes] or entry.email or entry.song or entry.creator or entry.song or entry.windows or entry.mac or entry.android or entry.webapp %}
+                {% if entry.notes or entry[lang_notes] or entry.email or entry.song or entry.creator or entry.song or entry.windows or entry.mac or entry.android or entry.webapp or entry.original %}
                     <div class="tooltip-content">
                         {% if entry.creator %}
                             <b>Made By: </b>{{entry.creator}}<br>
                         {% endif %}
                         {% if entry.song %}
-                            <b>Based off of: </b>{{entry.song}}<br>
+                            <b>Sounds based off of: </b>{{entry.song}}<br>
                         {% endif %}
                         {% if entry.original and entry.original_url %}
                             <b>Original Mod: </b><a target="_blank" rel="noopener noreferrer" href="{{entry.original_url}}"><u>{{entry.original}}</u></a><br>

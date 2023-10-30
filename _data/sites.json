@@ -97,11 +97,12 @@
         ]
     },
     {
-        "name": "Blinding Lights (Soviet Fudge)",
+        "name": "Blinding Lights (Concepter)",
         "url": "https://www.youtube.com/watch?v=ySHxobMmxxs",
         "availability": "unfinished",
         "creator": "Concepter",
-        "notes": "A remake of RB - Series (pedo)'s unfinished mod.",
+        "original": "Blinding Lights (RB)",
+        "original_url": "https://modindex.boogoxseal.xyz/#blinding%20lights%20(rb)",
         "song": "Blinding Lights by The Weeknd",
         "names": [
             "blinding lights (concepter)"
