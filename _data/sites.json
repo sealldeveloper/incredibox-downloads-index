@@ -86,17 +86,6 @@
         ]
     },
     {
-        "name": "Blinding Lights (RB)",
-        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
-        "availability": "downloadable",
-        "creator": "RB - Series (pedo)",
-        "notes": "Missing polos.",
-        "song": "Blinding Lights by The Weeknd",
-        "names": [
-            "blinding lights (rb)"
-        ]
-    },
-    {
         "name": "Blinding Lights (Concepter)",
         "url": "https://www.youtube.com/watch?v=ySHxobMmxxs",
         "availability": "unfinished",
@@ -106,6 +95,17 @@
         "song": "Blinding Lights by The Weeknd",
         "names": [
             "blinding lights (concepter)"
+        ]
+    },
+    {
+        "name": "Blinding Lights (RB)",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
+        "availability": "downloadable",
+        "creator": "RB - Series (pedo)",
+        "notes": "Missing polos.",
+        "song": "Blinding Lights by The Weeknd",
+        "names": [
+            "blinding lights (rb)"
         ]
     },
     {
