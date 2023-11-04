@@ -45,6 +45,8 @@
                         {{ site.data.trans[page.lang].availability_lost }}
                     {% elsif entry.availability == 'unavailable' %}
                         {{ site.data.trans[page.lang].availability_unavailable }}
+                    {% elsif entry.availability == 'demo' %}
+                        {{ site.data.trans[page.lang].availability_demo }}
                     {% endif %}
                 </p>
 
@@ -112,6 +114,7 @@
             <ul>
                 <li class="downloadable"><span class="availability">{{ site.data.trans[page.lang].availability_downloadable|safe }}</span> - {{ site.data.trans[page.lang].guidedownloadable|safe }}</li>
                 <li class="partially"><span class="availability">{{ site.data.trans[page.lang].availability_partially|safe }}</span> - {{ site.data.trans[page.lang].guidepartially|safe }}</li>
+                <li class="demo"><span class="availability">{{ site.data.trans[page.lang].availability_demo|safe }}</span> - {{ site.data.trans[page.lang].guidedemo|safe }}</li>
                 <li class="unfinished"><span class="availability">{{ site.data.trans[page.lang].availability_unfinished|safe }}</span> - {{ site.data.trans[page.lang].guideunfinished|safe }}</li>
                 <li class="lost"><span class="availability">{{ site.data.trans[page.lang].availability_lost|safe }}</span> - {{ site.data.trans[page.lang].guidelost|safe }}</li>
                 <li class="unavailable"><span class="availability">{{ site.data.trans[page.lang].availability_unavailable|safe }}</span> - {{ site.data.trans[page.lang].guideunavailable|safe }}</li>
@@ -162,7 +165,7 @@
 <div id="availability-dropdown" class="dropdown dropdown-tip">
     <ul class="dropdown-menu">
         <span class="diff-sort">
-            {% assign difficulties = 'downloadable,partially,unfinished,lost,unavailable' | split:',' %}
+            {% assign difficulties = 'downloadable,partially,unfinished,lost,unavailable,demo' | split:',' %}
             {% for availability in difficulties %}
                 {% capture availability_value %}availability_{{ availability }}{% endcapture %}
                 <li><a href="#">{{ site.data.trans[page.lang][availability_value] }}</a></li>

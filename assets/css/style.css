@@ -268,6 +268,14 @@ main {
     background-color: #C5A65C;
 }
 
+.site-block.demo .site-header {
+    background-color: rgb(232, 161, 116);
+    border: 1px solid rgb(199, 128, 84);
+}
+.site-block.demo .site-header:hover {
+    background-color: rgb(232, 161, 116);
+}
+
 .site-block.unfinished .site-header {
     background-color: #D04343;
     border: 1px solid #AC4949;
@@ -335,6 +343,7 @@ main {
 
 .site-block.downloadable .tooltip-toggle.contains-info:hover          { color: #7BAC7B; }
 .site-block.partially .tooltip-toggle.contains-info:hover        { color: #E8C674; }
+.site-block.demo .tooltip-toggle.tooltip-toggle.contains-info:hover { color: rgb(232, 161, 116); }
 .site-block.unfinished .tooltip-toggle.contains-info:hover          { color: #D04343; }
 .site-block.lost .tooltip-toggle.contains-info:hover       { color: #B521CC; }
 .site-block.unavailable .tooltip-toggle.contains-info:hover    { color: #2B2B2B; }
@@ -431,6 +440,10 @@ main {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
 }
+.info-container .demo .availability {
+    background-color: rgb(232, 161, 116);
+    border: 1px solid rgb(199, 128, 84);
+}
 .info-container .unfinished .availability {
     background-color: #D04343;
     border: 1px solid #AC4949;
@@ -503,6 +516,10 @@ main {
 .banner-block li .dot.partially {
     background-color: #E8C674;
     border: 1px solid #C5A65C;
+}
+.banner-block li .dot.demo {
+    background-color: rgb(232, 161, 116);
+    border: 1px solid rgb(199, 128, 84);
 }
 .banner-block li .dot.unfinished {
     background-color: #D04343;

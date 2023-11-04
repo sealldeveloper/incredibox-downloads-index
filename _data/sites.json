@@ -37,9 +37,10 @@
     },
     {
         "name": "Axiom",
-        "url": "https://www.youtube.com/watch?v=qq3jKa1GVJc",
-        "availability": "unavailable",
-        "notes": "Cancelled. Download of demo not provided by owners choice.",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Axiom/Floodbox_v1.apk",
+        "availability": "demo",
+        "creator": "UnusD3v",
+        "notes": "Cancelled.",
         "names": [
             "axiom"
         ]
@@ -168,7 +169,7 @@
     {
         "name": "Evadare (Demo)",
         "android": "https://www.mediafire.com/download/wnr4e68d952abqx",
-        "availability": "downloadable",
+        "availability": "demo",
         "creator": "Rem",
         "names": [
             "evadare demo (demo)"
@@ -301,6 +302,18 @@
         ]
     },
     {
+        "name": "Mana",
+        "availability": "unavailable",
+        "url": "https://www.youtube.com/watch?v=8cS1zG7Jr3I",
+        "original": "Travis",
+        "original_url": "https://modindex.boogoxseal.xyz/#travis",
+        "notes": "Cancelled. Due to Artemiy's personal disapproval of the recration of his mod.",
+        "creator": "Xiluju",
+        "names": [
+            "mana"
+        ]
+    },
+    {
         "name": "The Masks",
         "windows": "https://www.mediafire.com/download/k7jvr1he83bovr9",
         "android": "https://www.mediafire.com/download/pr4xfyuf297l101",
@@ -332,9 +345,8 @@
     {
         "name": "Mono",
         "windows": "https://www.mediafire.com/file/0yx8r2sb2djwkjw/real_mono_full_demo.zip/file",
-        "availability": "partially",
+        "availability": "demo",
         "creator": "Apollo the polo",
-        "notes": "Currently in demo.",
         "names": [
             "mono"
         ]
@@ -361,8 +373,7 @@
         "name": "Objects",
         "android": "https://mega.nz/file/Qz1HFCiA#PhAuexNfsAnScdKS5VO4utN08ZLKn2DI7i8RQNXRtZQ",
         "windows": "https://drive.google.com/file/d/1kxLdC0AZicaSpTxq93AS47lx8RLrvv9q/view",
-        "availability": "partially",
-        "notes": "Still in demo.",
+        "availability": "demo",
         "names": [
             "objects"
         ]
@@ -445,8 +456,7 @@
     {
         "name": "Set Fire",
         "android": "https://www.mediafire.com/file/9zt37rx9h0jbc8l/Incredimad.apk/file",
-        "availability": "partially",
-        "notes": "Still in demo release, missing animations.",
+        "availability": "demo",
         "names": [
             "set fire"
         ]
@@ -491,8 +501,7 @@
     {
         "name": "Stargold / Starbox",
         "android": "https://www.mediafire.com/file/tna9kikmgg7we8k/StarBox.apk/file",
-        "availability": "partially",
-        "notes": "Still in demo release, missing animations.",
+        "availability": "demo",
         "names": [
             "stargold starbox"
         ]

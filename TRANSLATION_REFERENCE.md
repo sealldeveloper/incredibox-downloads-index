@@ -24,6 +24,7 @@ This is a reference guide for translating, so that one can see where each key fi
 - `availability_unfinished`: Word for "unfinished" availability
 - `availability_lost`: Word for "lost availability" availability
 - `availability_unavailable`: Word for "unavailable" availability
+- `availability_demo`: Word for "demo" availability
 - `search`: Placeholder text for the general search field
 - `sendmail`: Text for hyperlink that opens up the new mail to be composed
 - `showinfo`: Text for button that shows notes of an entry
