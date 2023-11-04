@@ -303,11 +303,11 @@
     },
     {
         "name": "Mana",
-        "availability": "unavailable",
+        "availability": "lost",
         "url": "https://www.youtube.com/watch?v=8cS1zG7Jr3I",
         "original": "Travis",
         "original_url": "https://modindex.boogoxseal.xyz/#travis",
-        "notes": "Cancelled. Due to Artemiy's personal disapproval of the recration of his mod.",
+        "notes": "Cancelled. Due to Artemiy's personal disapproval of the recration of his mod. A link could be out there.",
         "creator": "Xiluju",
         "names": [
             "mana"
