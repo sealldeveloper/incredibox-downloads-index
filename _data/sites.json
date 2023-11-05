@@ -167,6 +167,15 @@
         ]
     },
     {
+        "name": "Elementals",
+        "creator": "Disel",
+        "url": "https://www.youtube.com/watch?v=d7WMYBdLn_w",
+        "availability": "unfinished",
+        "names": [
+            "elementals"
+        ]
+    },
+    {
         "name": "Evadare (Demo)",
         "android": "https://www.mediafire.com/download/wnr4e68d952abqx",
         "availability": "demo",
@@ -203,6 +212,16 @@
         "creator": "Endok Kopyor",
         "names": [
             "fields of the ground"
+        ]
+    },
+    {
+        "name": "Flashbacks (Kudabox E1)",
+        "availability": "demo",
+        "android": "",
+        "url": "https://www.youtube.com/watch?v=FntgIENXMDk",
+        "creator": "GREENORANGE",
+        "names": [
+            "flashbacks kudabox e1"
         ]
     },
     {
@@ -610,6 +629,15 @@
         "notes": "Still in beta.",
         "names": [
             "veda"
+        ]
+    },
+    {
+        "name": "Vehemence",
+        "url": "https://www.youtube.com/watch?v=DxBnmEHGapE",
+        "creator": "TrollGame Sanctuary",
+        "availability": "unfinished",
+        "names": [
+            "vehemence"
         ]
     },
     {
