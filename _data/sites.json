@@ -36,13 +36,24 @@
         ]
     },
     {
-        "name": "Axiom",
+        "name": "Axiom (Original)",
         "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Axiom/Floodbox_v1.apk",
         "availability": "demo",
         "creator": "UnusD3v",
         "notes": "Cancelled.",
         "names": [
-            "axiom"
+            "axiom original"
+        ]
+    },
+    {
+        "name": "Axiom (Remake)",
+        "url": "https://www.youtube.com/watch?v=1_zy3Iia2OY",
+        "availability": "unfinished",
+        "creator": "Blitz3433",
+        "original": "Axiom",
+        "original_url": "https://modindex.boogoxseal.xyz/#axiom%20original",
+        "names": [
+            "axiom remake"
         ]
     },
     {
@@ -126,6 +137,15 @@
         "availability": "unfinished",
         "names": [
             "botanic"
+        ]
+    },
+    {
+        "name": "Caves",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/shorts/e0mrVN9owbU",
+        "creator": "AzuriteDeIdiot",
+        "names": [
+            "caves"
         ]
     },
     {
@@ -534,6 +554,15 @@
         "original_url": "https://scratch.mit.edu/projects/836638363/",
         "names": [
             "steel factory"
+        ]
+    },
+    {
+        "name": "Trap Grooves of Yesteryear (Voicebox E1)",
+        "url": "https://www.youtube.com/watch?v=pCqWiFF6c-k",
+        "availability": "unfinished",
+        "creator": "capyman",
+        "names": [
+            "trap grooves of yesteryear voicebox e1"
         ]
     },
     {
