@@ -149,6 +149,16 @@
         ]
     },
     {
+        "name": "The Clock",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=5_vVvmE537o",
+        "song": "The Clcok by Incredible Polo",
+        "creator": "deepthought",
+        "names": [
+            "the clock"
+        ]
+    },
+    {
         "name": "Cursedbox",
         "android": "https://www.mediafire.com/file/draujs14ure60ot/cursedbox+0.5.0+(com.sofarsogood.cursed).apk/file",
         "availability": "downloadable",
@@ -184,6 +194,24 @@
         "notes": "Missing v9.",
         "names": [
             "deluxe"
+        ]
+    },
+    {
+        "name": "Doing It Right",
+        "url": "https://www.youtube.com/shorts/OTWCJ3OS0Wg",
+        "availability": "unfinished",
+        "creator": "SlicedLimez",
+        "names": [
+            "doing it right"
+        ]
+    },
+    {
+        "name": "Dystopia (Remakedbox v8)",
+        "url": "https://www.youtube.com/watch?v=lPbdpKklOKY",
+        "availability": "lost",
+        "creator": "LTFD",
+        "names": [
+            "dystopia remakedbox v8"
         ]
     },
     {
@@ -245,12 +273,31 @@
         ]
     },
     {
+        "name": "Battle (Foreverbox E1)",
+        "webapp": "https://joalor64gh.github.io/Foreverbox/",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=68p4-edy-zo",
+        "creator": "Joalor64 YT",
+        "names": [
+            "battle foreverbox e1"
+        ]
+    },
+    {
         "name": "Galaxy",
         "android": "https://www.mediafire.com/download/lmthwk5cb2w7ass",
         "availability": "downloadable",
         "creator": "Rem",
         "names": [
             "galaxy"
+        ]
+    },
+    {
+        "name": "Gangbox",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=B8FqXfG_1jg",
+        "creator": " ®رضۣۗـۙــــآ#",
+        "names": [
+            "gangbox"
         ]
     },
     {
@@ -456,6 +503,17 @@
         ]
     },
     {
+        "name": "Poplisbox",
+        "android": "https://www.mediafire.com/file/k0qlqtxdbn40it4/poplisbox_signed.apk/file",
+        "url": "https://www.youtube.com/watch?v=Fvj-LdLcR8k",
+        "creator": "Palpitoad",
+        "availability": "downloadable",
+        "original": "Evadare, Steel Factory (original and apk port) and Coldbox",
+        "names": [
+            "poplisbox"
+        ]
+    },
+    {
         "name": "Pushing Life",
         "url": "https://www.youtube.com/watch?v=7-Io79SBxIU",
         "availability": "unfinished",
@@ -463,6 +521,14 @@
         "song": "Pushing Life by Incredible Polo",
         "names": [
             "pushing life"
+        ]
+    },
+    {
+        "name": "Real and True",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=NNI88xW2OvA",
+        "names": [
+            "real and true"
         ]
     },
     {
@@ -493,6 +559,15 @@
         ]
     },
     {
+        "name": "Scary (T29BOX E1)",
+        "url": "https://www.youtube.com/watch?v=pSNp-ZMWXS8",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/download/elv6nrzth7pnkjv",
+        "names": [
+            "scary t29box e1"
+        ]
+    },
+    {
         "name": "Set Fire",
         "android": "https://www.mediafire.com/file/9zt37rx9h0jbc8l/Incredimad.apk/file",
         "availability": "demo",
@@ -508,6 +583,15 @@
         "notes": "Missing animations.",
         "names": [
             "sewertown"
+        ]
+    },
+    {
+        "name": "Shinozaki (Remakedbox v6)",
+        "url": "https://www.youtube.com/watch?v=XteQW6uc42w",
+        "availability": "lost",
+        "creator": "LTFD",
+        "names": [
+            "shinozaki remakedbox v6"
         ]
     },
     {
