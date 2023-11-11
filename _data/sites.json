@@ -641,15 +641,6 @@
         ]
     },
     {
-        "name": "Trap Grooves of Yesteryear (Voicebox E1)",
-        "url": "https://www.youtube.com/watch?v=pCqWiFF6c-k",
-        "availability": "unfinished",
-        "creator": "capyman",
-        "names": [
-            "trap grooves of yesteryear voicebox e1"
-        ]
-    },
-    {
         "name": "Thriller",
         "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxIconSeries-Android-v2.0.apk",
         "availability": "partially",
@@ -681,6 +672,15 @@
         "creator": "Artemiy Kopych and PersonFromBrazil",
         "names": [
             "the tomfoolery"
+        ]
+    },
+    {
+        "name": "Trap Grooves of Yesteryear (Voicebox E1)",
+        "url": "https://www.youtube.com/watch?v=pCqWiFF6c-k",
+        "availability": "unfinished",
+        "creator": "capyman",
+        "names": [
+            "trap grooves of yesteryear voicebox e1"
         ]
     },
     {
