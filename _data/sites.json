@@ -79,6 +79,16 @@
         ]
     },
     {
+        "name": "Battle (Foreverbox E1)",
+        "webapp": "https://joalor64gh.github.io/Foreverbox/",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=68p4-edy-zo",
+        "creator": "Joalor64 YT",
+        "names": [
+            "battle foreverbox e1"
+        ]
+    },
+    {
         "name": "Beatnik",
         "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
         "availability": "unfinished",
@@ -270,16 +280,6 @@
         "creator": "GREENORANGE",
         "names": [
             "flashbacks kudabox e1"
-        ]
-    },
-    {
-        "name": "Battle (Foreverbox E1)",
-        "webapp": "https://joalor64gh.github.io/Foreverbox/",
-        "availability": "downloadable",
-        "url": "https://www.youtube.com/watch?v=68p4-edy-zo",
-        "creator": "Joalor64 YT",
-        "names": [
-            "battle foreverbox e1"
         ]
     },
     {
