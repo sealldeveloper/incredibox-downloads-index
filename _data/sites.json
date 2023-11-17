@@ -218,7 +218,10 @@
     {
         "name": "Dystopia (Remakedbox v8)",
         "url": "https://www.youtube.com/watch?v=lPbdpKklOKY",
-        "availability": "lost",
+        "mac": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Mac.zip",
+        "windows": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Windows.zip",
+        "availability": "partially",
+        "notes": "Asset folders were found, but some assets are missing aswell as potential pictos.",
         "creator": "LTFD",
         "names": [
             "dystopia remakedbox v8"
@@ -319,6 +322,16 @@
         "song": "the SFX from GroovePad",
         "names": [
             "groovbox"
+        ]
+    },
+    {
+        "name": "Homemade",
+        "availability": "downloadable",
+        "creator": "Pickyradish",
+        "android": "https://www.mediafire.com/file/imczs5txulxh7tt/Incredibox_-_Homemade_versions.apk/file",
+        "url": "https://www.youtube.com/watch?v=gy35DuoaEiw",
+        "names": [
+            "hv8"
         ]
     },
     {
@@ -589,7 +602,10 @@
     {
         "name": "Shinozaki (Remakedbox v6)",
         "url": "https://www.youtube.com/watch?v=XteQW6uc42w",
-        "availability": "lost",
+        "mac": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Mac.zip",
+        "windows": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Remakedbox/IncrediboxRemakedbox-Windows.zip",
+        "notes": "Asset folders were found, but some assets are missing aswell as potential pictos.",
+        "availability": "partially",
         "creator": "LTFD",
         "names": [
             "shinozaki remakedbox v6"
