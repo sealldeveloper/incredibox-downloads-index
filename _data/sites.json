@@ -275,7 +275,7 @@
     {
         "name": "Flashbacks (Kudabox E1)",
         "availability": "demo",
-        "android": "",
+        "android": "https://drive.google.com/file/d/1fu5brggBYe4DNfEJXThwqAoSjtZM5bOF/view",
         "url": "https://www.youtube.com/watch?v=FntgIENXMDk",
         "creator": "GREENORANGE",
         "names": [
@@ -526,6 +526,7 @@
     {
         "name": "Real and True",
         "availability": "unfinished",
+        "creator": "walmartworker76",
         "url": "https://www.youtube.com/watch?v=NNI88xW2OvA",
         "names": [
             "real and true"
@@ -630,14 +631,25 @@
         ]
     },
     {
-        "name": "Steel Factory",
+        "name": "Steel Factory (Benvid)",
         "availability": "unfinished",
         "url": "https://www.youtube.com/watch?v=ainc1di4ePs",
         "creator": "Benvid10",
         "original": "Steel Factory by sepezz",
         "original_url": "https://scratch.mit.edu/projects/836638363/",
         "names": [
-            "steel factory"
+            "steel factory benvid"
+        ]
+    },
+    {
+        "name": "Steel Factory (GREENORANGE)",
+        "creator": "GREENORANGE",
+        "url": "https://www.youtube.com/shorts/nJbFLDzbIZY",
+        "availability": "unfinished",
+        "original": "Steel Factory by sepezz",
+        "original_url": "https://scratch.mit.edu/projects/836638363/",
+        "names": [
+            "steel factory greenorange"
         ]
     },
     {
@@ -701,6 +713,17 @@
         "creator": "The Jesterboxer",
         "names": [
             "tribal"
+        ]
+    },
+    {
+        "name": "Bumfuzzle (Trillybox v4)",
+        "android": "https://drive.google.com/file/d/1OApJnS3xFsiV0CG3g1284DTDNT7LBZF3/view",
+        "url": "https://www.youtube.com/watch?si=79bDY9I9eMRCseSA",
+        "creator": "ThatAnonym0usMan",
+        "original": "Bumfuzzle by InfinityChubs88",
+        "original_url": "https://scratch.mit.edu/projects/870051639/",
+        "names": [
+            "bumfuzzle trillybox v4"
         ]
     },
     {
