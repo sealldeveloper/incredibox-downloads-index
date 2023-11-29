@@ -258,8 +258,10 @@
     },
     {
         "name": "Express",
-        "url": "https://www.youtube.com/watch?v=VQBr5cwzP-E",
-        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=88EExu3ePE8",
+        "windows": "https://www.mediafire.com/file/25ay2wtyije8xbt/EXPRESS_PC_PORT.zip/file",
+        "android": "https://www.mediafire.com/file/9oroufv79e9100m/IncrediRealm+-+Express+(Android+1.1).apk/file",
+        "availability": "downloadable",
         "creator": "Splatjack",
         "names": [
             "express"
@@ -724,8 +726,10 @@
     },
     {
         "name": "Tribal",
-        "url": "https://www.youtube.com/watch?v=7Q82u70cb9E",
-        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=qjjU6q1Yd6U",
+        "windows": "https://www.mediafire.com/file/pomfiaqe63o2f86/Tribal_PC.zip/file",
+        "android": "https://www.mediafire.com/file/hku7fzg7eukwa5p/Incredibox_-_Tribal_signed.apk/file",
+        "availability": "downloadable",
         "creator": "The Jesterboxer",
         "names": [
             "tribal"
@@ -785,9 +789,11 @@
     },
     {
         "name": "Vehemence",
-        "url": "https://www.youtube.com/watch?v=DxBnmEHGapE",
+        "url": "https://www.youtube.com/watch?v=fd1AuI49VZw",
+        "android": "https://drive.google.com/file/d/1FSJe0IVHeo4rm_SELaNKd-cR4AYWXLMM/view",
         "creator": "TrollGame Sanctuary",
-        "availability": "unfinished",
+        "song": "Vehemence by Hortasfnf",
+        "availability": "downloadable",
         "names": [
             "vehemence"
         ]
