@@ -394,12 +394,12 @@
         ]
     },
     {
-        "name": "Magicbox",
+        "name": "Magic Places",
         "availability": "unfinished",
         "url": "https://www.youtube.com/watch?v=yCcZ0HoJ7EM",
         "creator": "REDSINDER",
         "names": [
-            "magicbox"
+            "Magic Places"
         ]
     },
     {
@@ -563,6 +563,15 @@
         "creator": "The Incredi Modmakers",
         "names": [
             "reskincredibox"
+        ]
+    },
+    {
+        "name": "Righteous",
+        "url": "https://www.youtube.com/shorts/B7k8djS_Wl0",
+        "creator": "Jado",
+        "availability": "unfinished",
+        "names": [
+            "righteous"
         ]
     },
     {
@@ -740,6 +749,7 @@
         "android": "https://drive.google.com/file/d/1OApJnS3xFsiV0CG3g1284DTDNT7LBZF3/view",
         "url": "https://www.youtube.com/watch?si=79bDY9I9eMRCseSA",
         "creator": "ThatAnonym0usMan",
+        "availability": "downloadable",
         "original": "Bumfuzzle by InfinityChubs88",
         "original_url": "https://scratch.mit.edu/projects/870051639/",
         "names": [
