@@ -81,6 +81,8 @@
     {
         "name": "Battle (Foreverbox E1)",
         "webapp": "https://joalor64gh.github.io/Foreverbox/",
+        "android": "https://mega.nz/file/SP40jIIQ#CEsEoQimucu_k7lR3Vi_7sQMOiQmm1p9UaxlRIaeMek",
+        "windows": "https://mega.nz/file/WDQBgARY#6Ms7zx2qEg6pyOgFNrjQVXQSGg3J8IheM8KF-fHCNx4",
         "availability": "downloadable",
         "url": "https://www.youtube.com/watch?v=68p4-edy-zo",
         "creator": "Joalor64 YT",
@@ -426,6 +428,16 @@
         ]
     },
     {
+        "name": "Mice on Venus",
+        "url": "https://youtube.com/shorts/hmsB4BfGbBc",
+        "availability": "unfinished",
+        "song": "Mice on Venus by C418",
+        "creator": "mustafa_the_regular",
+        "names": [
+            "mice on venus"
+        ]
+    },
+    {
         "name": "Moltentop",
         "url": "https://www.youtube.com/watch?v=Q27sUHhI3jo",
         "availability": "unfinished",
@@ -622,6 +634,15 @@
         ]
     },
     {
+        "name": "Space",
+        "url": "https://www.youtube.com/watch?v=nABaXQd4Ij0",
+        "availability": "unfinished",
+        "creator": "hilarion100",
+        "names": [
+            "space"
+        ]
+    },
+    {
         "name": "Splaatbox",
         "android": "https://www.mediafire.com/file/rajxqynnnyzajlv/Splaatbox_V1.apk/file",
         "availability": "downloadable",
@@ -631,13 +652,15 @@
         ]
     },
     {
-        "name": "Stardust (Unbelivabox)",
-        "android": "https://drive.google.com/file/d/19Ule6FBVa9-R54Xv4N1CGlyTLGtcB65z/view",
-        "availability": "partially",
+        "name": "Stardust (Unbelivabox E1)",
+        "url": "https://www.youtube.com/shorts/PG6FqZfdqDc",
+        "android": "https://www.mediafire.com/file/mvrhe8botynu6yc/Unbelivabox_V1.apk/file",
+        "windows": "https://www.mediafire.com/file/hlibi1stjtoxxgg/Stardust+PC.zip/file",
+        "availability": "demo",
         "creator": "SlicedLimez",
         "notes": "Unfinished animations.",
         "names": [
-            "stardust unbelivabox"
+            "stardust unbelivabox e1"
         ]
     },
     {
