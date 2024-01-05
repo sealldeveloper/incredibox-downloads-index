@@ -27,6 +27,18 @@
         ]
     },
     {
+        "name": "Ascension (Foreverbox E2)",
+        "webapp": "https://joalor64gh.github.io/Foreverbox/",
+        "android": "https://mega.nz/file/GeB1hIQI#_1doR18TWxRespbA2Vepzq0Ph_7W3Bm2h8jmo0_1zaw",
+        "windows": "https://mega.nz/file/fHghmCpL#AK8fCsP24j0tRh_h-nXtDOeoxtW_76RD16Ca3jhsAec",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=siJqzpB51nU",
+        "creator": "Joalor64 YT",
+        "names": [
+            "ascension foreverbox e2"
+        ]
+    },
+    {
         "name": "Augury (Arbox E3)",
         "availability": "downloadable",
         "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode3.apk",
@@ -518,6 +530,15 @@
         ]
     },
     {
+        "name": "Petas",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=JmwmL3kQ_gg",
+        "creator": "Petas",
+        "names": [
+            "petas"
+        ]
+    },
+    {
         "name": "Piege",
         "url": "https://boogoxseal.xyz/mods/piege",
         "availability": "partially",
@@ -832,6 +853,15 @@
         "creator": "Rem",
         "names": [
             "void evadare e3"
+        ]
+    },
+    {
+        "name": "Voltage",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=Lh_n3GLFeuQ",
+        "creator": "SlicedLimez",
+        "names": [
+            "voltage"
         ]
     },
     {
