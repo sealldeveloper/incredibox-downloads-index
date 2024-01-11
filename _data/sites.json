@@ -69,6 +69,15 @@
         ]
     },
     {
+        "name": "Azoic",
+        "url": "https://www.youtube.com/shorts/znXumLnO_MA",
+        "availability": "unfinished",
+        "creator": "Gumi",
+        "names": [
+            "azoic"
+        ]
+    },
+    {
         "name": "Azurite",
         "android": "https://www.mediafire.com/file/98q7l15utodjfdn/Unusbox+-+Azurite_signed.apk/file",
         "availability": "downloadable",
@@ -239,6 +248,15 @@
         "creator": "SlicedLimez",
         "names": [
             "doing it right"
+        ]
+    },
+    {
+        "name": "Downtown (PFB's Workshop E1)",
+        "url": "https://youtu.be/8NJesJrxvkY",
+        "availability": "unfinished",
+        "creator": "PersonFromBrazil",
+        "names": [
+            "downtown pfbs workshop e1"
         ]
     },
     {
