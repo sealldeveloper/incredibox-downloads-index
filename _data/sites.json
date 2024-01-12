@@ -113,7 +113,7 @@
     },
     {
         "name": "Beatnik",
-        "url": "https://www.youtube.com/watch?v=0gBzMbwgvOg",
+        "url": "https://www.youtube.com/watch?v=p0O_PDnqmE4",
         "availability": "unfinished",
         "creator": "BOOGO x SEAL.",
         "names": [
@@ -252,8 +252,10 @@
     },
     {
         "name": "Downtown (PFB's Workshop E1)",
-        "url": "https://youtu.be/8NJesJrxvkY",
-        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=sjoeH0Cs6eM",
+        "availability": "downloadable",
+        "windows": "https://www.mediafire.com/file/syez2ktc093rnb9/PFBs_Workshop_v1.0.0_%2528PC%2529.zip/file",
+        "android": "https://www.mediafire.com/file/1gecnl49rum57dc/PFBs_Workshop_v1.0.0_%2528Android%2529.apk/file",
         "creator": "PersonFromBrazil",
         "names": [
             "downtown pfbs workshop e1"
