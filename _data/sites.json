@@ -441,9 +441,10 @@
     },
     {
         "name": "The Lightners (Liobox V1)",
-        "availability": "unfinished",
-        "creator": "Papatyn susan",
-        "url": "https://youtu.be/OUltvFTef9I",
+        "availability": "downloadable",
+        "creator": "Coolio the Incrediboxer",
+        "url": "https://www.youtube.com/watch?v=SzZeaHU3LWc",
+        "android": "https://drive.google.com/file/d/1WAWLNcDIJ0FnR2PWKD6iDIXgfTMvNmMu/view",
         "names": [
             "the lightners liobox v1"
         ]
@@ -736,8 +737,11 @@
     },
     {
         "name": "Steel Factory (Benvid)",
-        "availability": "unfinished",
-        "url": "https://www.youtube.com/watch?v=ainc1di4ePs",
+        "availability": "downloadable",
+        "url": "https://www.youtube.com/watch?v=Cl1L80waY8E",
+        "android": "https://www.mediafire.com/file/ofzuwxhl5jle7kr/Sepbox_-_V1_Steel_Factory.apk/file",
+        "windows": "https://www.mediafire.com/file/itgq7tz87r3qyx6/Sepbox_-_V1_Steel_Factory.zip/file",
+        "webapp": "https://steelfactory.boogoxseal.xyz/",
         "creator": "Benvid10",
         "original": "Steel Factory by sepezz",
         "original_url": "https://scratch.mit.edu/projects/836638363/",
