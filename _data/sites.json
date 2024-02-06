@@ -18,12 +18,33 @@
         ]
     },
     {
+        "name": "Anxiety",
+        "url": "https://www.youtube.com/watch?v=HvtDxFh4CtM",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/gxv05kvhju2s2vo/com.TheLastShow.incredibox.apk/file",
+        "windows": "https://www.mediafire.com/file/fupq56utukur0ps/incredibox+-+Anxiety(PC+port).zip/file",
+        "creator": "The Last Show",
+        "names": [
+            "anxiety"
+        ]
+    },
+    {
         "name": "The Armed Forces (Arbox E4)",
         "availability": "downloadable",
         "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/RB-Series/IncrediboxArbox-Android-Episode4.apk",
         "creator": "RB - Series (pedo)",
         "names": [
             "the armed forces arbox"
+        ]
+    },
+    {
+        "name": "Arvo",
+        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=qMb1znJnwtg",
+        "notes": "Inspired by RB (pedo)",
+        "creator": "ShaunNew",
+        "names": [
+            "arvo"
         ]
     },
     {
@@ -429,6 +450,15 @@
         ]
     },
     {
+        "name": "Laboratory (Casbox V1)",
+        "creator": "Lucasto",
+        "url": "https://youtu.be/XRaTQEXiR3c",
+        "availability": "unfinished",
+        "names": [
+            "laboratory casbox v1"
+        ]
+    },
+    {
         "name": "The Last Day",
         "availability": "downloadable",
         "song": "The Last Day by Incredible Polo",
@@ -740,7 +770,7 @@
         "name": "Steel Factory (Benvid)",
         "availability": "downloadable",
         "url": "https://www.youtube.com/watch?v=Cl1L80waY8E",
-        "android": "https://www.mediafire.com/file/ofzuwxhl5jle7kr/Sepbox_-_V1_Steel_Factory.apk/file",
+        "android": "https://www.mediafire.com/file/zg9siql7pkg8noa/Sepbox_-_Steel_Factory_signed.apk/file",
         "windows": "https://www.mediafire.com/file/itgq7tz87r3qyx6/Sepbox_-_V1_Steel_Factory.zip/file",
         "webapp": "https://steelfactory.boogoxseal.xyz/",
         "creator": "Benvid10",
