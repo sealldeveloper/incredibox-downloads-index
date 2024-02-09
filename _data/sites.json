@@ -9,6 +9,16 @@
         ]
     },
     {
+        "name": "Alpha Remake",
+        "availability": "unfinished",
+        "url": "https://youtu.be/8zB2Urco43g",
+        "original": "Alpha (v1) from Official Incredibox",
+        "creator": "ToonJam",
+        "names": [
+            "alpha remake"
+        ]
+    },
+    {
         "name": "Anniversary",
         "availability": "downloadable",
         "android": "https://www.mediafire.com/download/4w24bqlhz5y34lo",
@@ -135,8 +145,12 @@
     {
         "name": "Beatnik",
         "url": "https://www.youtube.com/watch?v=p0O_PDnqmE4",
-        "availability": "unfinished",
-        "creator": "BOOGO x SEAL.",
+        "android": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Beatnik/Beatnik-android.apk",
+        "windows": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Beatnik/Beatnik-windows.zip",
+        "mac": "https://github.com/sealldeveloper/files.boogoxseal.xyz/releases/download/Beatnik/Beatnik-mac.zip",
+        "webapp": "https://sealldeveloper.github.io/incredibox-webapps/beatnik",
+        "availability": "downloadable",
+        "creator": "BOOGO x SEAL",
         "names": [
             "beatnik"
         ]
@@ -663,6 +677,15 @@
         ]
     },
     {
+        "name": "Reunion",
+        "url": "https://youtu.be/GoMwCXYnaws?si=yCfXfT9G1m_gFfVS",
+        "availability": "unfinished",
+        "creator": "Apollo the polo",
+        "names": [
+            "reunion"
+        ]
+    },
+    {
         "name": "Righteous",
         "url": "https://www.youtube.com/shorts/B7k8djS_Wl0",
         "creator": "Jado",
@@ -747,6 +770,15 @@
         ]
     },
     {
+        "name": "Stardust Remake",
+        "url": "https://youtube.com/shorts/jgF6gxse8eY",
+        "creator": "A person from France",
+        "availability": "unfinished",
+        "names": [
+            "stardust remake"
+        ]
+    },
+    {
         "name": "Stardust (Unbelivabox V1)",
         "url": "https://www.youtube.com/shorts/PG6FqZfdqDc",
         "android": "https://www.mediafire.com/file/mvrhe8botynu6yc/Unbelivabox_V1.apk/file",
@@ -789,6 +821,15 @@
         "original_url": "https://scratch.mit.edu/projects/836638363/",
         "names": [
             "steel factory greenorange"
+        ]
+    },
+    {
+        "name": "Surprise",
+        "url": "https://youtu.be/7j5uHo8smhU",
+        "creator": "Lucasto",
+        "availability": "unfinished",
+        "names": [
+            "surprise"
         ]
     },
     {
