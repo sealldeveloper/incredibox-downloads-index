@@ -119,13 +119,9 @@
     },
     {
         "name": "Balls",
-        "windows": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Windows-v1.0.0.zip",
-        "android": "https://www.mediafire.com/file/ilyxl6pmww2b8x9/Incredibox_-_Balls.apk/file",
-        "mac": "https://github.com/sealldeveloper/balls/releases/download/v1.0.0/IncrediboxBalls-Mac-v1.0.0.zip",
-        "webapp": "https://sealldeveloper.github.io/balls/",
-        "availability": "downloadable",
+        "availability": "unavailable",
         "creator": "Rem & PersonFromBrazil",
-        "notes": "Android port courtesy of Ters for the fix.",
+        "notes": "Removed as per the request of Rem.",
         "names": [
             "balls"
         ]
