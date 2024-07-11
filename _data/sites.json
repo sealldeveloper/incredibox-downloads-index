@@ -766,15 +766,6 @@
         ]
     },
     {
-        "name": "Stardust Remake",
-        "url": "https://youtube.com/shorts/jgF6gxse8eY",
-        "creator": "A person from France",
-        "availability": "unfinished",
-        "names": [
-            "stardust remake"
-        ]
-    },
-    {
         "name": "Stardust (Unbelivabox V1)",
         "url": "https://www.youtube.com/shorts/PG6FqZfdqDc",
         "android": "https://www.mediafire.com/file/mvrhe8botynu6yc/Unbelivabox_V1.apk/file",
@@ -784,6 +775,15 @@
         "notes": "Unfinished animations.",
         "names": [
             "stardust unbelivabox v1"
+        ]
+    },
+        {
+        "name": "Stardust Remake",
+        "url": "https://youtube.com/shorts/jgF6gxse8eY",
+        "creator": "A person from France",
+        "availability": "unfinished",
+        "names": [
+            "stardust remake"
         ]
     },
     {
