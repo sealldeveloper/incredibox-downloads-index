@@ -251,7 +251,7 @@
         "android": "https://www.mediafire.com/file/gin6w4futbrjb9r/Incredibox+-+The+Crime_signed.apk/file",
         "windows": "https://www.mediafire.com/file/16ceizye79yjnke/Incredibox_-_The_Crime_v1.0.1_%2528PC%2529.zip/file",
         "url": "https://sites.google.com/view/unsolvedcases/home?authuser=0",
-        "creator": "Gontale",
+        "creator": "R.K.",
         "names": [
             "the crime"
         ]
@@ -397,8 +397,10 @@
     },
     {
         "name": "Galerij",
-        "url": "https://www.youtube.com/watch?v=YqdMffU2W0Q",
-        "availability": "unfinished",
+        "url": "https://www.youtube.com/watch?v=Eu_1edhYdxg",
+        "availability": "downloadable",
+        "windows": "https://www.mediafire.com/file/aeek0s5v6059zsa/Galerij-PC.zip/file",
+        "android": "https://www.mediafire.com/file/9n0c9ms93bte30c/Galerij_-_Incredibox.apk/file",
         "creator": "SlicedLimez",
         "names": [
             "galerij"
@@ -621,6 +623,12 @@
             "ocean heart"
         ]
     },
+    {
+        "name": "OLIIFSPEAK",
+        "creator": "BOOGO x SEAL",
+        "availability": "unfinished",
+        "url": ""
+    }
     {
         "name": "The Original on Mobile",
         "availability": "downloadable",
