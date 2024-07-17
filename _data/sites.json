@@ -152,6 +152,17 @@
         ]
     },
     {
+        "name": "The Beats of Incredimen V3",
+        "url": "https://www.youtube.com/watch?v=rexvf2thODU",
+        "android": "https://www.mediafire.com/file/8p5vnm02biajown/The+Beats+Of+Incredimen+V3_signed.apk/file",
+        "windows": "https://www.mediafire.com/file/v8n2w2y52oa2xvd/TBOI+V3+PC.zip/file",
+        "availability": "downloadable",
+        "creator": "Hanta Nyaw 44",
+        "names": [
+            "the beats of incredimen v3"
+        ]
+    },
+    {
         "name": "The Bells",
         "availability": "downloadable",
         "windows": "https://www.mediafire.com/file/jmdgbn07xr0o3iv/Incredibox_-_Chrismtas_2.0_PC.zip/file",
@@ -232,6 +243,17 @@
         "creator": "deepthought",
         "names": [
             "the clock"
+        ]
+    },
+    {
+        "name": "The Crime",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/gin6w4futbrjb9r/Incredibox+-+The+Crime_signed.apk/file",
+        "windows": "https://www.mediafire.com/file/16ceizye79yjnke/Incredibox_-_The_Crime_v1.0.1_%2528PC%2529.zip/file",
+        "url": "https://sites.google.com/view/unsolvedcases/home?authuser=0",
+        "creator": "Gontale",
+        "names": [
+            "the crime"
         ]
     },
     {
@@ -371,6 +393,15 @@
         "creator": "Rem",
         "names": [
             "galaxy"
+        ]
+    },
+    {
+        "name": "Galerij",
+        "url": "https://www.youtube.com/watch?v=YqdMffU2W0Q",
+        "availability": "unfinished",
+        "creator": "SlicedLimez",
+        "names": [
+            "galerij"
         ]
     },
     {
@@ -625,6 +656,17 @@
         ]
     },
     {
+        "name": "PixelTown (BitBox V1)",
+        "url": "https://www.youtube.com/watch?v=Z4EU07S8d_k",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/by0an7xavax6myl/BitBox_-_PixelTown.apk/file",
+        "windows": "https://www.mediafire.com/file/gpx4z83zlipdh4e/PixelTown_PC.zip/file",
+        "creator": "KingKommrade & SlicedLimez",
+        "names": [
+            "pixeltown bitbox v1"
+        ]
+    },
+    {
         "name": "Poplisbox",
         "android": "https://www.mediafire.com/file/k0qlqtxdbn40it4/poplisbox_signed.apk/file",
         "url": "https://www.youtube.com/watch?v=Fvj-LdLcR8k",
@@ -697,6 +739,16 @@
         "creator": "LexLim",
         "names": [
             "rockin' melodeal (melodeal)"
+        ]
+    },
+    {
+        "name": "Save Your Tears (SYT)",
+        "url": "https://www.youtube.com/watch?v=mSxUjh7bZ6w",
+        "availability": "unfinished",
+        "creator": "VOID EYEWATCH",
+        "names": [
+            "save your tears",
+            "syt"
         ]
     },
     {
@@ -779,7 +831,7 @@
     },
         {
         "name": "Stardust Remake",
-        "url": "https://youtube.com/shorts/jgF6gxse8eY",
+        "url": "https://www.youtube.com/watch?v=daa9vOOpBgM",
         "creator": "A person from France",
         "availability": "unfinished",
         "names": [
@@ -946,6 +998,17 @@
         ]
     },
     {
+        "name": "Vibin (Dripbox V1)",
+        "creator": "Jado",
+        "url": "https://www.youtube.com/watch?v=HYMHYCzV54Y",
+        "windows": "https://www.mediafire.com/file/etfeeney49fe26y/Dripbox+-+Vibin.zip/file",
+        "android": "https://www.mediafire.com/file/e3tx0kjppu9owlz/Dripbox_signed.apk/file",
+        "availability": "downloadable",
+        "names": [
+            "vibin dripbox v1"
+        ]
+    },
+    {
         "name": "Void (Evadre E3)",
         "availability": "downloadable",
         "windows": "https://www.mediafire.com/file/q2lwc7j6f004l79/Incredibox+-+Void+0.2.9+PC.zip/file",
@@ -975,6 +1038,15 @@
         ]
     },
     {
+        "name": "The Wolf",
+        "url": "https://www.youtube.com/watch?v=RRaFyfHChKI",
+        "availability": "unfinished",
+        "creator": "Hadern Hadwads",
+        "names": [
+            "the wolf"
+        ]
+    },
+    {
         "name": "Wonderland",
         "url": "https://www.youtube.com/watch?v=KUPgE8inEyY",
         "availability": "unfinished",
@@ -992,6 +1064,16 @@
         "creator": "Rem",
         "names": [
             "xrun evadare e2"
+        ]
+    },
+    {
+        "name": "Yubin Niiku",
+        "availability": "downloadable",
+        "android": "https://www.mediafire.com/file/t6j9mfihx2a0yjt/Potatobox_-_Yubin_Niiku.apk/file",
+        "url": "https://www.youtube.com/watch?v=QI7jjPEPn5s",
+        "creator": "TISLUB",
+        "names": [
+            "yubin niiku"
         ]
     }
 ]
